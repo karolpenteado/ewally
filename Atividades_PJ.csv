@@ -1,0 +1,1527 @@
+CODIGO,ATIVIDADE,ESCORE,RACIONAL
+111300,CULTIVO DE CEREAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+111301,CULTIVO DE ARROZ,10,Risco remoto de envolvimento com atividades ilIcitas
+111302,CULTIVO DE MILHO,10,Risco remoto de envolvimento com atividades ilIcitas
+111303,CULTIVO DE TRIGO,10,Risco remoto de envolvimento com atividades ilIcitas
+111399,CULTIVO DE OUTROS CEREAIS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+112100,CULTIVO DE ALGODAO HERBACEO E DE OUTRAS FIBRAS DE LAVOURA TEMPORA,10,Risco remoto de envolvimento com atividades ilIcitas
+112101,CULTIVO DE ALGODAO HERBACEO,10,Risco remoto de envolvimento com atividades ilIcitas
+112102,CULTIVO DE JUTA,10,Risco remoto de envolvimento com atividades ilIcitas
+112199,CULT OUTRAS FIBRAS LAVOURA TEMPORARIA NAO ESPEC ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+113000,CULTIVO DE CANA-DE-ACUCAR,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+114800,CULTIVO DE FUMO,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+115600,CULTIVO DE SOJA,10,Risco remoto de envolvimento com atividades ilIcitas
+116400,"CULTIVO DE OLEAGINOSAS DE LAVOURA TEMPORARIA, EXCETO SOJA",10,Risco remoto de envolvimento com atividades ilIcitas
+116401,CULTIVO DE AMENDOIM,10,Risco remoto de envolvimento com atividades ilIcitas
+116402,CULTIVO DE GIRASSOL,10,Risco remoto de envolvimento com atividades ilIcitas
+116403,CULTIVO DE MAMONA,10,Risco remoto de envolvimento com atividades ilIcitas
+116499,CULT OUTRAS OLEAGINOSAS LAVOURA TEMPORARIA NAO ESPEC ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+119900,CULT PLANTAS LAVOURA TEMPORARIA NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+119901,CULTIVO DE ABACAXI,10,Risco remoto de envolvimento com atividades ilIcitas
+119902,CULTIVO DE ALHO,10,Risco remoto de envolvimento com atividades ilIcitas
+119903,CULTIVO DE BATATA-INGLESA,10,Risco remoto de envolvimento com atividades ilIcitas
+119904,CULTIVO DE CEBOLA,10,Risco remoto de envolvimento com atividades ilIcitas
+119905,CULTIVO DE FEIJAO,10,Risco remoto de envolvimento com atividades ilIcitas
+119906,CULTIVO DE MANDIOCA,10,Risco remoto de envolvimento com atividades ilIcitas
+119907,CULTIVO DE MELAO,10,Risco remoto de envolvimento com atividades ilIcitas
+119908,CULTIVO DE MELANCIA,10,Risco remoto de envolvimento com atividades ilIcitas
+119909,CULTIVO DE TOMATE RASTEIRO,10,Risco remoto de envolvimento com atividades ilIcitas
+119999,CULT OUTRAS PLANTAS LAVOURA TEMPORARIA NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+121100,HORTICULTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+121101,"HORTICULTURA, EXCETO MORANGO",10,Risco remoto de envolvimento com atividades ilIcitas
+121102,CULTIVO DE MORANGO,10,Risco remoto de envolvimento com atividades ilIcitas
+122900,CULTIVO DE FLORES E PLANTAS ORNAMENTAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+131800,CULTIVO DE LARANJA,10,Risco remoto de envolvimento com atividades ilIcitas
+132600,CULTIVO DE UVA,10,Risco remoto de envolvimento com atividades ilIcitas
+133400,"CULTIVO DE FRUTAS DE LAVOURA PERMANENTE, EXCETO LARANJA E UVA",10,Risco remoto de envolvimento com atividades ilIcitas
+133401,CULTIVO DE ACAI,10,Risco remoto de envolvimento com atividades ilIcitas
+133402,CULTIVO DE BANANA,10,Risco remoto de envolvimento com atividades ilIcitas
+133403,CULTIVO DE CAJU,10,Risco remoto de envolvimento com atividades ilIcitas
+133404,"CULTIVO DE CITRICOS, EXCETO LARANJA",10,Risco remoto de envolvimento com atividades ilIcitas
+133405,CULTIVO DE COCO-DA-BAIA,10,Risco remoto de envolvimento com atividades ilIcitas
+133406,CULTIVO DE GUARANA,10,Risco remoto de envolvimento com atividades ilIcitas
+133407,CULTIVO DE MACA,10,Risco remoto de envolvimento com atividades ilIcitas
+133408,CULTIVO DE MAMAO,10,Risco remoto de envolvimento com atividades ilIcitas
+133409,CULTIVO DE MARACUJA,10,Risco remoto de envolvimento com atividades ilIcitas
+133410,CULTIVO DE MANGA,10,Risco remoto de envolvimento com atividades ilIcitas
+133411,CULTIVO DE PESSEGO,10,Risco remoto de envolvimento com atividades ilIcitas
+133499,CULTIVO FRUTAS DE LAVOURA PERMANENTE NAO ESPECIFICADAS ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+134200,CULTIVO DE CAFE,10,Risco remoto de envolvimento com atividades ilIcitas
+135100,CULTIVO DE CACAU,10,Risco remoto de envolvimento com atividades ilIcitas
+139300,CULTIVO PLANTAS LAVOURA PERMANENTE NAO ESPECIFICADAS ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+139301,CULTIVO DE CHA-DA-INDIA,10,Risco remoto de envolvimento com atividades ilIcitas
+139302,CULTIVO DE ERVA-MATE,10,Risco remoto de envolvimento com atividades ilIcitas
+139303,CULTIVO DE PIMENTA-DO-REINO,10,Risco remoto de envolvimento com atividades ilIcitas
+139304,"CULTIVO DE PLANTAS PARA CONDIMENTO, EXCETO PIMENTA-DO-REINO",10,Risco remoto de envolvimento com atividades ilIcitas
+139305,CULTIVO DE DENDE,10,Risco remoto de envolvimento com atividades ilIcitas
+139306,CULTIVO DE SERINGUEIRA,10,Risco remoto de envolvimento com atividades ilIcitas
+139399,CULTIVO OUTRAS PLANTAS LAVOURA PERMANENTE NAO ESPECIF ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+141500,PRODUCAO DE SEMENTES CERTIFICADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+141501,PRODUCAO SEMENTES CERTIFICADAS EXCETO DE FORRAGEIRAS PARA PASTO,10,Risco remoto de envolvimento com atividades ilIcitas
+141502,PRODUCAO SEMENTES CERTIFICADAS FORRAGEIRAS PARA FORMACAO PASTO,10,Risco remoto de envolvimento com atividades ilIcitas
+142300,"PRODUCAO MUDAS E OUTRAS FORMAS PROPAGACAO VEGETAL, CERTIFICADAS",10,Risco remoto de envolvimento com atividades ilIcitas
+150300,PRODUCAO MISTA LAVOURA E PECUARIA,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+151200,CRIACAO DE BOVINOS,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+151201,CRIACAO DE BOVINOS PARA CORTE,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+151202,CRIACAO DE BOVINOS PARA LEITE,10,Risco remoto de envolvimento com atividades ilIcitas
+151203,"CRIACAO DE BOVINOS, EXCETO PARA CORTE E LEITE",70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+152100,CRIACAO DE OUTROS ANIMAIS DE GRANDE PORTE,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+152101,CRIACAO DE BUFALINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+152102,CRIACAO DE EQUINOS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+152103,CRIACAO DE ASININOS E MUARES,10,Risco remoto de envolvimento com atividades ilIcitas
+153900,CRIACAO DE CAPRINOS E OVINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+153901,CRIACAO DE CAPRINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+153902,"CRIACAO DE OVINOS, INCLUSIVE PARA PRODUCAO DE LA",10,Risco remoto de envolvimento com atividades ilIcitas
+154700,CRIACAO DE SUINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+155500,CRIACAO DE AVES,10,Risco remoto de envolvimento com atividades ilIcitas
+155501,CRIACAO DE FRANGOS PARA CORTE,10,Risco remoto de envolvimento com atividades ilIcitas
+155502,PRODUCAO DE PINTOS DE UM DIA,10,Risco remoto de envolvimento com atividades ilIcitas
+155503,"CRIACAO DE OUTROS GALINACEOS, EXCETO PARA CORTE",10,Risco remoto de envolvimento com atividades ilIcitas
+155504,"CRIACAO DE AVES, EXCETO GALINACEOS",10,Risco remoto de envolvimento com atividades ilIcitas
+155505,PRODUCAO DE OVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+159800,CRIACAO DE ANIMAIS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+159801,APICULTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+159802,CRIACAO DE ANIMAIS DE ESTIMACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+159803,CRIACAO DE ESCARGO,10,Risco remoto de envolvimento com atividades ilIcitas
+159804,CRIACAO DE BICHO-DA-SEDA,10,Risco remoto de envolvimento com atividades ilIcitas
+159899,CRIACAO DE OUTROS ANIMAIS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+161000,ATIVIDADES DE APOIO A AGRICULTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+161001,SERVICO DE PULVERIZACAO E CONTROLE DE PRAGAS AGRICOLAS,10,Risco remoto de envolvimento com atividades ilIcitas
+161002,SERVICO DE PODA DE ARVORES PARA LAVOURAS,10,Risco remoto de envolvimento com atividades ilIcitas
+161003,"SERVICO DE PREPARACAO DE TERRENO, CULTIVO E COLHEITA",10,Risco remoto de envolvimento com atividades ilIcitas
+161099,ATIVIDADES APOIO A AGRICULTURA NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+162800,ATIVIDADES DE APOIO A PECUARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+162801,SERVICO DE INSEMINACAO ARTIFICIAL EM ANIMAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+162802,SERVICO DE TOSQUIAMENTO DE OVINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+162803,SERVICO DE MANEJO DE ANIMAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+162899,ATIVIDADES DE APOIO A PECUARIA NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+163600,ATIVIDADES DE POS-COLHEITA,10,Risco remoto de envolvimento com atividades ilIcitas
+170900,CACA E SERVICOS RELACIONADOS,80,Risco de envolvimento com crime organizado e crimes ambientais
+210100,PRODUCAO FLORESTAL - FLORESTAS PLANTADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+210101,CULTIVO DE EUCALIPTO,10,Risco remoto de envolvimento com atividades ilIcitas
+210102,CULTIVO DE ACACIA-NEGRA,10,Risco remoto de envolvimento com atividades ilIcitas
+210103,CULTIVO DE PINUS,10,Risco remoto de envolvimento com atividades ilIcitas
+210104,CULTIVO DE TECA,10,Risco remoto de envolvimento com atividades ilIcitas
+210105,CULT ESPECIES MADEIR EXCETO EUCALIPTO ACACIA-NEGRA PINUS E TECA,10,Risco remoto de envolvimento com atividades ilIcitas
+210106,CULTIVO DE MUDAS EM VIVEIROS FLORESTAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+210107,EXTRACAO DE MADEIRA EM FLORESTAS PLANTADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+210108,PRODUCAO DE CARVAO VEGETAL - FLORESTAS PLANTADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+210109,PRODUCAO DE CASCA DE ACACIA-NEGRA - FLORESTAS PLANTADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+210199,PROD PROD NAO-MADEIRA NAO ESPEC ANTERIOR EM FLORESTAS PLANTADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+220900,PRODUCAO FLORESTAL - FLORESTAS NATIVAS,80,Risco de envolvimento com crime organizado e crimes ambientais
+220901,EXTRACAO DE MADEIRA EM FLORESTAS NATIVAS,80,Risco de envolvimento com crime organizado e crimes ambientais
+220902,PRODUCAO DE CARVAO VEGETAL - FLORESTAS NATIVAS,80,Risco de envolvimento com crime organizado e crimes ambientais
+220903,COLETA DE CASTANHA-DO-PARA EM FLORESTAS NATIVAS,10,Risco remoto de envolvimento com atividades ilIcitas
+220904,COLETA DE LATEX EM FLORESTAS NATIVAS,80,Risco de envolvimento com crime organizado e crimes ambientais
+220905,COLETA DE PALMITO EM FLORESTAS NATIVAS,80,Risco de envolvimento com crime organizado e crimes ambientais
+220906,CONSERVACAO DE FLORESTAS NATIVAS,10,Risco remoto de envolvimento com atividades ilIcitas
+220999,COLETA PROD NAO-MADEIRA NAO ESPEC ANTERIOR EM FLORESTA NATIVA,80,Risco de envolvimento com crime organizado e crimes ambientais
+230600,ATIVIDADES DE APOIO A PRODUCAO FLORESTAL,10,Risco remoto de envolvimento com atividades ilIcitas
+311600,PESCA EM AGUA SALGADA,10,Risco remoto de envolvimento com atividades ilIcitas
+311601,PESCA DE PEIXES EM AGUA SALGADA,10,Risco remoto de envolvimento com atividades ilIcitas
+311602,PESCA DE CRUSTACEOS E MOLUSCOS EM AGUA SALGADA,10,Risco remoto de envolvimento com atividades ilIcitas
+311603,COLETA DE OUTROS PRODUTOS MARINHOS,10,Risco remoto de envolvimento com atividades ilIcitas
+311604,ATIVIDADES DE APOIO A PESCA EM AGUA SALGADA,10,Risco remoto de envolvimento com atividades ilIcitas
+312400,PESCA EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+312401,PESCA DE PEIXES EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+312402,PESCA DE CRUSTACEOS E MOLUSCOS EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+312403,COLETA DE OUTROS PRODUTOS AQUATICOS DE AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+312404,ATIVIDADES DE APOIO A PESCA EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+321300,AQUICULTURA EM AGUA SALGADA E SALOBRA,10,Risco remoto de envolvimento com atividades ilIcitas
+321301,CRIACAO DE PEIXES EM AGUA SALGADA E SALOBRA,10,Risco remoto de envolvimento com atividades ilIcitas
+321302,CRIACAO DE CAMAROES EM AGUA SALGADA E SALOBRA,10,Risco remoto de envolvimento com atividades ilIcitas
+321303,CRIACAO DE OSTRAS E MEXILHOES EM AGUA SALGADA E SALOBRA,10,Risco remoto de envolvimento com atividades ilIcitas
+321304,CRIACAO DE PEIXES ORNAMENTAIS EM AGUA SALGADA E SALOBRA,10,Risco remoto de envolvimento com atividades ilIcitas
+321305,ATIVIDADES DE APOIO A AQUICULTURA EM AGUA SALGADA E SALOBRA,10,Risco remoto de envolvimento com atividades ilIcitas
+321399,CULT SEMICULT AQUICULT AGUA SALGADA E SALOBRA NAO ESPEC ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+322100,AQUICULTURA EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+322101,CRIACAO DE PEIXES EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+322102,CRIACAO DE CAMAROES EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+322103,CRIACAO DE OSTRAS E MEXILHOES EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+322104,CRIACAO DE PEIXES ORNAMENTAIS EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+322105,RANICULTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+322106,CRIACAO DE JACARE,10,Risco remoto de envolvimento com atividades ilIcitas
+322107,ATIVIDADES DE APOIO A AQUICULTURA EM AGUA DOCE,10,Risco remoto de envolvimento com atividades ilIcitas
+322199,CULT SEMICULT AQUICULTURA AGUA DOCE NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+500300,EXTRACAO DE CARVAO MINERAL,50,Risco de envolvimento com crimes ambientais
+500301,EXTRACAO DE CARVAO MINERAL,50,Risco de envolvimento com crimes ambientais
+500302,BENEFICIAMENTO DE CARVAO MINERAL,50,Risco de envolvimento com crimes ambientais
+600000,EXTRACAO DE PETROLEO E GAS NATURAL,10,Risco remoto de envolvimento com atividades ilIcitas
+600001,EXTRACAO DE PETROLEO E GAS NATURAL,10,Risco remoto de envolvimento com atividades ilIcitas
+600002,EXTRACAO E BENEFICIAMENTO DE XISTO,10,Risco remoto de envolvimento com atividades ilIcitas
+600003,EXTRACAO E BENEFICIAMENTO DE AREIAS BETUMINOSAS,10,Risco remoto de envolvimento com atividades ilIcitas
+710300,EXTRACAO DE MINERIO DE FERRO,10,Risco remoto de envolvimento com atividades ilIcitas
+710301,EXTRACAO DE MINERIO DE FERRO,10,Risco remoto de envolvimento com atividades ilIcitas
+710302,"PELOTIZACAO, SINTERIZACAO OUTROS BENEF DE MINERIO DE FERRO",10,Risco remoto de envolvimento com atividades ilIcitas
+721900,EXTRACAO DE MINERIO DE ALUMINIO,10,Risco remoto de envolvimento com atividades ilIcitas
+721901,EXTRACAO DE MINERIO DE ALUMINIO,10,Risco remoto de envolvimento com atividades ilIcitas
+721902,BENEFICIAMENTO DE MINERIO DE ALUMINIO,10,Risco remoto de envolvimento com atividades ilIcitas
+722700,EXTRACAO DE MINERIO DE ESTANHO,10,Risco remoto de envolvimento com atividades ilIcitas
+722701,EXTRACAO DE MINERIO DE ESTANHO,10,Risco remoto de envolvimento com atividades ilIcitas
+722702,BENEFICIAMENTO DE MINERIO DE ESTANHO,10,Risco remoto de envolvimento com atividades ilIcitas
+723500,EXTRACAO DE MINERIO DE MANGANES,10,Risco remoto de envolvimento com atividades ilIcitas
+723501,EXTRACAO DE MINERIO DE MANGANES,10,Risco remoto de envolvimento com atividades ilIcitas
+723502,BENEFICIAMENTO DE MINERIO DE MANGANES,10,Risco remoto de envolvimento com atividades ilIcitas
+724300,EXTRACAO DE MINERIO DE METAIS PRECIOSOS,80,Risco de envolvimento com crime organizado e crimes ambientais
+724302,BENEFICIAMENTO DE MINERIO DE METAIS PRECIOSOS,80,Risco de envolvimento com crime organizado e crimes ambientais
+725100,EXTRACAO DE MINERAIS RADIOATIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+729400,EXTRACAO MINERAIS METALICOS NAO-FERROSOS NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+729401,EXTRACAO DE MINERIOS DE NIOBIO E TITANIO,10,Risco remoto de envolvimento com atividades ilIcitas
+729402,EXTRACAO DE MINERIO DE TUNGSTENIO,10,Risco remoto de envolvimento com atividades ilIcitas
+729403,EXTRACAO DE MINERIO DE NIQUEL,10,Risco remoto de envolvimento com atividades ilIcitas
+729404,EXT MIN COBRE CHMBO ZNCO OUTR MIN MET NAO-FERRO NAO ESPEC ANTER,10,Risco remoto de envolvimento com atividades ilIcitas
+729405,BNFC MIN CBRE CHMBO ZNCO OUTR MIN MET NAO-FERRO NAO ESPEC ANTER,10,Risco remoto de envolvimento com atividades ilIcitas
+810000,"EXTRACAO DE PEDRA, AREIA E ARGILA",10,Risco remoto de envolvimento com atividades ilIcitas
+810001,EXTRACAO DE ARDOSIA E BENEFICIAMENTO ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+810002,EXTRACAO DE GRANITO E BENEFICIAMENTO ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+810003,EXTRACAO DE MARMORE E BENEFICIAMENTO ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+810004,EXTRACAO DE CALCARIO E DOLOMITA E BENEFICIAMENTO ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+810005,EXTRACAO DE GESSO E CAULIM,10,Risco remoto de envolvimento com atividades ilIcitas
+810006,EXTRACAO AREIA CASCALHO OU PEDREGULHO E BENEFICIAMENTO ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+810007,EXTRACAO DE ARGILA E BENEFICIAMENTO ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+810008,EXTRACAO DE SAIBRO E BENEFICIAMENTO ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+810009,EXTRACAO DE BASALTO E BENEFICIAMENTO ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+810010,BENEFICIAMENTO DE GESSO E CAULIM ASSOCIADO A EXTRACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+810099,EXTR BRIT PEDRAS OUTR MATERIAIS PARA CONSTRUCAO BENEF ASSOCIADO,10,Risco remoto de envolvimento com atividades ilIcitas
+891600,EXTRACAO MINERAIS P/FABRICACAO ADUBOS FERTLZ OUTR PROD QUIMICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+892400,EXTRACAO E REFINO DE SAL MARINHO E SAL-GEMA,10,Risco remoto de envolvimento com atividades ilIcitas
+892401,EXTRACAO DE SAL MARINHO,10,Risco remoto de envolvimento com atividades ilIcitas
+892402,EXTRACAO DE SAL-GEMA,10,Risco remoto de envolvimento com atividades ilIcitas
+892403,REFINO E OUTROS TRATAMENTOS DO SAL,10,Risco remoto de envolvimento com atividades ilIcitas
+899100,EXTRACAO MINERAIS NAO-METALICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+899101,EXTRACAO DE GRAFITA,10,Risco remoto de envolvimento com atividades ilIcitas
+899102,EXTRACAO DE QUARTZO,10,Risco remoto de envolvimento com atividades ilIcitas
+899103,EXTRACAO DE AMIANTO,10,Risco remoto de envolvimento com atividades ilIcitas
+899199,EXTRACAO OUTROS MIN NAO-METALICOS NAO ESPECIFICADOS ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+910600,ATIVIDADES DE APOIO A EXTRACAO DE PETROLEO E GAS NATURAL,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+990400,ATIVIDADES APOIO A EXTRACAO MINERAIS EXCETO PETROLEO GAS NATURAL,10,Risco remoto de envolvimento com atividades ilIcitas
+990401,ATIVIDADES DE APOIO A EXTRACAO DE MINERIO DE FERRO,10,Risco remoto de envolvimento com atividades ilIcitas
+990402,ATIVIDADES APOIO A EXTRACAO DE MINERAIS METALICOS NAO-FERROSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+990403,ATIVIDADES DE APOIO A EXTRACAO DE MINERAIS NAO-METALICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1011200,"ABATE DE RESES, EXCETO SUINOS",10,Risco remoto de envolvimento com atividades ilIcitas
+1011201,FRIGORIFICO - ABATE DE BOVINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1011202,FRIGORIFICO - ABATE DE EQUINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1011203,FRIGORIFICO - ABATE DE OVINOS E CAPRINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1011204,FRIGORIFICO - ABATE DE BUFALINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1011205,"MATADOURO - ABATE DE RESES SOB CONTRATO, EXCETO ABATE DE SUINOS",10,Risco remoto de envolvimento com atividades ilIcitas
+1012100,"ABATE DE SUINOS, AVES E OUTROS PEQUENOS ANIMAIS",10,Risco remoto de envolvimento com atividades ilIcitas
+1012101,ABATE DE AVES,10,Risco remoto de envolvimento com atividades ilIcitas
+1012102,ABATE DE PEQUENOS ANIMAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1012103,FRIGORIFICO - ABATE DE SUINOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1012104,MATADOURO - ABATE DE SUINOS SOB CONTRATO,10,Risco remoto de envolvimento com atividades ilIcitas
+1013900,FABRICACAO DE PRODUTOS DE CARNE,10,Risco remoto de envolvimento com atividades ilIcitas
+1013901,FABRICACAO DE PRODUTOS DE CARNE,10,Risco remoto de envolvimento com atividades ilIcitas
+1013902,PREPARACAO DE SUBPRODUTOS DO ABATE,10,Risco remoto de envolvimento com atividades ilIcitas
+1020100,PRESERVACAO DO PESCADO E FABRICACAO DE PRODUTOS DO PESCADO,10,Risco remoto de envolvimento com atividades ilIcitas
+1020101,"PRESERVACAO DE PEIXES, CRUSTACEOS E MOLUSCOS",10,Risco remoto de envolvimento com atividades ilIcitas
+1020102,"FABRICACAO DE CONSERVAS DE PEIXES, CRUSTACEOS E MOLUSCOS",10,Risco remoto de envolvimento com atividades ilIcitas
+1031700,FABRICACAO DE CONSERVAS DE FRUTAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1032500,FABRICACAO DE CONSERVAS DE LEGUMES E OUTROS VEGETAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1032501,FABRICACAO DE CONSERVAS DE PALMITO,10,Risco remoto de envolvimento com atividades ilIcitas
+1032599,FABRICACAO CONSERVAS DE LEGUMES E OUTROS VEGETAIS EXCETO PALMITO,10,Risco remoto de envolvimento com atividades ilIcitas
+1033300,"FABRICACAO DE SUCOS DE FRUTAS, HORTALICAS E LEGUMES",10,Risco remoto de envolvimento com atividades ilIcitas
+1033301,"FABRICACAO DE SUCOS CONCENTRADOS DE FRUTAS, HORTALICAS E LEGUMES",10,Risco remoto de envolvimento com atividades ilIcitas
+1033302,FABRICACAO SUCOS FRUTAS HORTALICAS E LEGUMES EXCETO CONCENTRADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1041400,"FABRICACAO DE OLEOS VEGETAIS EM BRUTO, EXCETO OLEO DE MILHO",10,Risco remoto de envolvimento com atividades ilIcitas
+1042200,"FABRICACAO DE OLEOS VEGETAIS REFINADOS, EXCETO OLEO DE MILHO",10,Risco remoto de envolvimento com atividades ilIcitas
+1043100,FABRICACAO MARGRNA OUTR GORDURA VEGET OLEOS NAO-COMEST ANIMAL,10,Risco remoto de envolvimento com atividades ilIcitas
+1051100,PREPARACAO DO LEITE,10,Risco remoto de envolvimento com atividades ilIcitas
+1052000,FABRICACAO DE LATICINIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1053800,FABRICACAO DE SORVETES E OUTROS GELADOS COMESTIVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1061900,BENEFICIAMENTO DE ARROZ E FABRICACAO DE PRODUTOS DO ARROZ,10,Risco remoto de envolvimento com atividades ilIcitas
+1061901,BENEFICIAMENTO DE ARROZ,10,Risco remoto de envolvimento com atividades ilIcitas
+1061902,FABRICACAO DE PRODUTOS DO ARROZ,10,Risco remoto de envolvimento com atividades ilIcitas
+1062700,MOAGEM DE TRIGO E FABRICACAO DE DERIVADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1063500,FABRICACAO DE FARINHA DE MANDIOCA E DERIVADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1064300,"FABRICACAO FARINHA DE MILHO E DERIVADOS, EXCETO OLEOS DE MILHO",10,Risco remoto de envolvimento com atividades ilIcitas
+1065100,FABRICACAO DE AMIDOS E FECULAS DE VEGETAIS E DE OLEOS DE MILHO,10,Risco remoto de envolvimento com atividades ilIcitas
+1065101,FABRICACAO DE AMIDOS E FECULAS DE VEGETAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1065102,FABRICACAO DE OLEO DE MILHO EM BRUTO,10,Risco remoto de envolvimento com atividades ilIcitas
+1065103,FABRICACAO DE OLEO DE MILHO REFINADO,10,Risco remoto de envolvimento com atividades ilIcitas
+1066000,FABRICACAO DE ALIMENTOS PARA ANIMAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1069400,MOAGEM E FABRICACAO PROD ORIGEM VEGETAL NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1071600,FABRICACAO DE ACUCAR EM BRUTO,10,Risco remoto de envolvimento com atividades ilIcitas
+1072400,FABRICACAO DE ACUCAR REFINADO,10,Risco remoto de envolvimento com atividades ilIcitas
+1072401,FABRICACAO DE ACUCAR DE CANA REFINADO,10,Risco remoto de envolvimento com atividades ilIcitas
+1072402,FABRICACAO DE ACUCAR DE CEREAIS (DEXTROSE) E DE BETERRABA,10,Risco remoto de envolvimento com atividades ilIcitas
+1081300,TORREFACAO E MOAGEM DE CAFE,10,Risco remoto de envolvimento com atividades ilIcitas
+1081301,BENEFICIAMENTO DE CAFE,10,Risco remoto de envolvimento com atividades ilIcitas
+1081302,TORREFACAO E MOAGEM DE CAFE,10,Risco remoto de envolvimento com atividades ilIcitas
+1082100,FABRICACAO DE PRODUTOS A BASE DE CAFE,10,Risco remoto de envolvimento com atividades ilIcitas
+1091100,FABRICACAO DE PRODUTOS DE PANIFICACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1091101,FABRICACAO DE PRODUTOS DE PANIFICACAO INDUSTRIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+1091102,FABRICACAO DE PROD DE PADARIA E CONFEITARIA COM PRED DE PROD PROPRIA,10,Risco remoto de envolvimento com atividades ilIcitas
+1092900,FABRICACAO DE BISCOITOS E BOLACHAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1093700,FABRICACAO PRODUTOS DERIVADOS DO CACAU CHOCOLATES E CONFEITOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1093701,FABRICACAO DE PRODUTOS DERIVADOS DO CACAU E DE CHOCOLATES,10,Risco remoto de envolvimento com atividades ilIcitas
+1093702,"FABRICACAO DE FRUTAS CRISTALIZADAS, BALAS E SEMELHANTES",10,Risco remoto de envolvimento com atividades ilIcitas
+1094500,FABRICACAO DE MASSAS ALIMENTICIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1095300,"FABRICACAO DE ESPECIARIAS, MOLHOS, TEMPEROS E CONDIMENTOS",10,Risco remoto de envolvimento com atividades ilIcitas
+1096100,FABRICACAO DE ALIMENTOS E PRATOS PRONTOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1099600,FABRICACAO PRODUTOS ALIMENTICIOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1099601,FABRICACAO DE VINAGRES,10,Risco remoto de envolvimento com atividades ilIcitas
+1099602,FABRICACAO DE POS ALIMENTICIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1099603,FABRICACAO DE FERMENTOS E LEVEDURAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1099604,FABRICACAO DE GELO COMUM,10,Risco remoto de envolvimento com atividades ilIcitas
+1099605,"FABRICACAO DE PRODUTOS PARA INFUSAO (CHA, MATE, ETC.)",10,Risco remoto de envolvimento com atividades ilIcitas
+1099606,FABRICACAO DE ADOCANTES NATURAIS E ARTIFICIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1099699,FABRICACAO DE OUTROS PRODUTOS ALIMENTICIOS NAO ESPECIFICADOS ANTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1111900,FABRICACAO DE AGUARDENTES E OUTRAS BEBIDAS DESTILADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1111901,FABRICACAO DE AGUARDENTE DE CANA-DE-ACUCAR,10,Risco remoto de envolvimento com atividades ilIcitas
+1111902,FABRICACAO DE OUTRAS AGUARDENTES E BEBIDAS DESTILADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1112700,FABRICACAO DE VINHO,10,Risco remoto de envolvimento com atividades ilIcitas
+1113500,"FABRICACAO DE MALTE, CERVEJAS E CHOPES",10,Risco remoto de envolvimento com atividades ilIcitas
+1113501,"FABRICACAO DE MALTE, INCLUSIVE MALTE UISQUE",10,Risco remoto de envolvimento com atividades ilIcitas
+1113502,FABRICACAO DE CERVEJAS E CHOPES,10,Risco remoto de envolvimento com atividades ilIcitas
+1121600,FABRICACAO DE AGUAS ENVASADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1122400,FABRICACAO DE REFRIGERANTES E DE OUTRAS BEBIDAS NAO-ALCOOLICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1122401,FABRICACAO DE REFRIGERANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+1122402,FABRICACAO DE CHA MATE E OUTROS CHAS PRONTOS PARA CONSUMO,10,Risco remoto de envolvimento com atividades ilIcitas
+1122403,"FABRI REFRESCO XAROPES E POS PARA REFRESCOS, EXCETO REFRESCOS DE",10,Risco remoto de envolvimento com atividades ilIcitas
+1122499,FABRICACAO OUTRAS BEB NAO-ALCOOLICAS NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1210700,PROCESSAMENTO INDUSTRIAL DO FUMO,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+1220400,FABRICACAO DE PRODUTOS DO FUMO,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+1220401,FABRICACAO DE CIGARROS,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+1220402,FABRICACAO DE CIGARRILHAS E CHARUTOS,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+1220403,FABRICACAO DE FILTROS PARA CIGARROS,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+1220499,FABRICACAO OUTROS PRODUTOS DO FUMO EXC CIGARR CIGRRLH CHARUTOS,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+1311100,PREPARACAO E FIACAO DE FIBRAS DE ALGODAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1312000,"PREPARACAO E FIACAO DE FIBRAS TEXTEIS NATURAIS, EXCETO ALGODAO",10,Risco remoto de envolvimento com atividades ilIcitas
+1313800,FIACAO DE FIBRAS ARTIFICIAIS E SINTETICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1314600,FABRICACAO DE LINHAS PARA COSTURAR E BORDAR,10,Risco remoto de envolvimento com atividades ilIcitas
+1321900,TECELAGEM DE FIOS DE ALGODAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1322700,"TECELAGEM DE FIOS DE FIBRAS TEXTEIS NATURAIS, EXCETO ALGODAO",10,Risco remoto de envolvimento com atividades ilIcitas
+1323500,TECELAGEM DE FIOS DE FIBRAS ARTIFICIAIS E SINTETICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1330800,FABRICACAO DE TECIDOS DE MALHA,10,Risco remoto de envolvimento com atividades ilIcitas
+1340500,"ACABAMENTOS EM FIOS, TECIDOS E ARTEFATOS TEXTEIS",10,Risco remoto de envolvimento com atividades ilIcitas
+1340501,ESTAMPARIA TEXTURIZACAO EM FIOS TECIDOS ARTEF TEXTEIS E PEC VEST,50,Risco de envolvimento com crimes ambientais
+1340502,ALVEJA TINGIMENTO TORCAO EM FIOS TECIDOS ARTEF TEXT PEC VEST,50,Risco de envolvimento com crimes ambientais
+1340599,OUTROS SERVICOS ACABAMENTO EM FIOS TECIDOS ARTEF TEXT PEC VEST,10,Risco remoto de envolvimento com atividades ilIcitas
+1351100,FABRICACAO DE ARTEFATOS TEXTEIS PARA USO DOMESTICO,10,Risco remoto de envolvimento com atividades ilIcitas
+1352900,FABRICACAO DE ARTEFATOS DE TAPECARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+1353700,FABRICACAO DE ARTEFATOS DE CORDOARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+1354500,"FABRICACAO DE TECIDOS ESPECIAIS, INCLUSIVE ARTEFATOS",10,Risco remoto de envolvimento com atividades ilIcitas
+1359600,FABRICACAO OUTROS PROD TEXTEIS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1411800,CONFECCAO DE ROUPAS INTIMAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1411801,CONFECCAO DE ROUPAS INTIMAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1411802,FACCAO DE ROUPAS INTIMAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1412600,"CONFECCAO DE PECAS DO VESTUARIO, EXCETO ROUPAS INTIMAS",10,Risco remoto de envolvimento com atividades ilIcitas
+1412601,CONFECCAO PECA VESTUARIO EXC ROUPA INTIMA E CONFEC SOB MEDIDA,10,Risco remoto de envolvimento com atividades ilIcitas
+1412602,"CONFECCAO SOB MEDIDA DE PECAS VESTUARIO, EXCETO ROUPAS INTIMAS",10,Risco remoto de envolvimento com atividades ilIcitas
+1412603,"FACCAO DE PECAS DO VESTUARIO, EXCETO ROUPAS INTIMAS",10,Risco remoto de envolvimento com atividades ilIcitas
+1413400,CONFECCAO DE ROUPAS PROFISSIONAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1413401,"CONFECCAO DE ROUPAS PROFISSIONAIS, EXCETO SOB MEDIDA",10,Risco remoto de envolvimento com atividades ilIcitas
+1413402,"CONFECCAO, SOB MEDIDA, DE ROUPAS PROFISSIONAIS",10,Risco remoto de envolvimento com atividades ilIcitas
+1413403,FACCAO DE ROUPAS PROFISSIONAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1414200,FABRICACAO ACESSORIOS VESTUARIO EXCETO PARA SEGURANCA E PROTECAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1421500,FABRICACAO DE MEIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1422300,"FABRICACAO ARTIGOS DO VESTUARIO, PROD EM MALHARIAS TRICOTAGENS",10,Risco remoto de envolvimento com atividades ilIcitas
+1510600,CURTIMENTO E OUTRAS PREPARACOES DE COURO,50,Risco de envolvimento com crimes ambientais
+1521100,FAB ARTIGOS PARA VIAGEM BOLSAS E SEMELHANTES DE QQ MATERIAL,50,Risco de envolvimento com crimes ambientais
+1529700,FABRICACAO DE ARTEFATOS DE COURO NAO ESPECIFICADOS ANTERIORMENTE,50,Risco de envolvimento com crimes ambientais
+1531900,FABRICACAO DE CALCADOS DE COURO,10,Risco remoto de envolvimento com atividades ilIcitas
+1531901,FABRICACAO DE CALCADOS DE COURO,10,Risco remoto de envolvimento com atividades ilIcitas
+1531902,ACABAMENTO DE CALCADOS DE COURO SOB CONTRATO,10,Risco remoto de envolvimento com atividades ilIcitas
+1532700,FABRICACAO DE TENIS DE QUALQUER MATERIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+1533500,FABRICACAO DE CALCADOS DE MATERIAL SINTETICO,10,Risco remoto de envolvimento com atividades ilIcitas
+1539400,FABRICACAO DE CALCADOS DE MATERIAIS NAO ESPECIFICADOS ANTERIORMEN,10,Risco remoto de envolvimento com atividades ilIcitas
+1540800,"FABRICACAO DE PARTES PARA CALCADOS, DE QUALQUER MATERIAL",10,Risco remoto de envolvimento com atividades ilIcitas
+1610200,DESDOBRAMENTO DE MADEIRA,80,Risco de envolvimento com crime organizado e crimes ambientais
+1610201,SERRARIAS COM DESDOBRAMENTO DE MADEIRA,80,Risco de envolvimento com crime organizado e crimes ambientais
+1610202,SERRARIAS SEM DESDOBRAMENTO DE MADEIRA,80,Risco de envolvimento com crime organizado e crimes ambientais
+1610203,SERRARIAS COM DESDOBRAMENTO DE MADEIRA EM BRUTO,80,Risco de envolvimento com crime organizado e crimes ambientais
+1610204,SERRARIAS SEM DESDOBRAMENTO DE MADEIRA EM BRUTO -RESSERRAGEM,80,Risco de envolvimento com crime organizado e crimes ambientais
+1621800,FAB MADEIRA LAMINADA E CHPAS MADEIRA COMPENS PRENSADA AGLOMERADA,10,Risco remoto de envolvimento com atividades ilIcitas
+1622600,FAB ESTRUTURAS DE MADEIRA E ARTIGOS CARPINTARIA PARA CONSTRUCAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1622601,FABRICACAO DE CASAS DE MADEIRA PRE-FABRICADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1622602,FAB ESQUADRIAS MADEIRA E PECAS MADEIRA P/INSTAL INDAL E COMAL,10,Risco remoto de envolvimento com atividades ilIcitas
+1622699,FABRICACAO DE OUTROS ARTIGOS DE CARPINTARIA PARA CONSTRUCAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1623400,FABRICACAO DE ARTEFATOS DE TANOARIA E DE EMBALAGENS DE MADEIRA,10,Risco remoto de envolvimento com atividades ilIcitas
+1629300,FAB ARTEF MAD PLHA CORTCA VME MAT TRANCD N ESPEC ANT EXC MOVEL,10,Risco remoto de envolvimento com atividades ilIcitas
+1629301,"FABRICACAO DE ARTEFATOS DIVERSOS DE MADEIRA, EXCETO MOVEIS",10,Risco remoto de envolvimento com atividades ilIcitas
+1629302,FAB ARTEF DIV CORTICA BAMBU PLHA VME OUT MAT TRANC EXCETO MOVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1710900,FABRICACAO DE CELULOSE E OUTRAS PASTAS PARA FABRICACAO DE PAPEL,10,Risco remoto de envolvimento com atividades ilIcitas
+1721400,FABRICACAO DE PAPEL,10,Risco remoto de envolvimento com atividades ilIcitas
+1722200,FABRICACAO DE CARTOLINA E PAPEL-CARTAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1731100,FABRICACAO DE EMBALAGENS DE PAPEL,10,Risco remoto de envolvimento com atividades ilIcitas
+1732000,FABRICACAO DE EMBALAGENS DE CARTOLINA E PAPEL-CARTAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1733800,FABRICACAO DE CHAPAS E DE EMBALAGENS DE PAPELAO ONDULADO,10,Risco remoto de envolvimento com atividades ilIcitas
+1741900,FAB PROD PAPEL CARTOLINA PPEL-CRTAO PPLAO ONDUL P/USO COM ESCRIT,10,Risco remoto de envolvimento com atividades ilIcitas
+1741901,FABRICACAO DE FORMULARIOS CONTINUOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1741902,FAB OUTROS PROD PAPEL CARTLNA PPEL-CARTAO EXC FORM CONTINUO,10,Risco remoto de envolvimento com atividades ilIcitas
+1742700,FAB PRODUTOS DE PAPEL PARA USOS DOMESTICO E HIGIENICO-SANITARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+1742701,FABRICACAO DE FRALDAS DESCARTAVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1742702,FABRICACAO DE ABSORVENTES HIGIENICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1742799,FAB PROD PAPEL USO DOMESTICO HIG-SANIT NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1749400,FAB PROD PSTAS CELULOSI PPEL CART PPLAO ONDUL N ESPECI ANTERIO,10,Risco remoto de envolvimento com atividades ilIcitas
+1811300,IMPRESSAO JORNAIS LIVROS REVISTAS OUTRAS PUBLICACOES PERIODICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1811301,IMPRESSAO DE JORNAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1811302,"IMPRESSAO DE LIVROS, REVISTAS E OUTRAS PUBLICACOES PERIODICAS",10,Risco remoto de envolvimento com atividades ilIcitas
+1812100,IMPRESSAO DE MATERIAL DE SEGURANCA,10,Risco remoto de envolvimento com atividades ilIcitas
+1813000,IMPRESSAO DE MATERIAIS PARA OUTROS USOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1813001,IMPRESSAO DE MATERIAL PARA USO PUBLICITARIO,100,Diretriz Bacen
+1813099,IMPRESSAO DE MATERIAL PARA OUTROS USOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1821100,SERVICOS DE PRE-IMPRESSAO,10,Risco remoto de envolvimento com atividades ilIcitas
+1822900,SERVICOS DE ACABAMENTOS GRAFICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+1830001,REPRODUCAO DE SOM EM QUALQUER SUPORTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1830002,REPRODUCAO DE VIDEO EM QUALQUER SUPORTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1830003,REPRODUCAO DE SOFTWARE EM QUALQUER SUPORTE,10,Risco remoto de envolvimento com atividades ilIcitas
+1910100,COQUERIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+1921700,FABRICACAO DE PRODUTOS DO REFINO DE PETROLEO,10,Risco remoto de envolvimento com atividades ilIcitas
+1922500,"FAB PRODUTOS DERIVADOS DO PETROLEO, EXCETO PRODUTOS DO REFINO",10,Risco remoto de envolvimento com atividades ilIcitas
+1922501,FORMULACAO DE COMBUSTIVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+1922502,RERREFINO DE OLEOS LUBRIFICANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+1922599,"FAB OUTROS PROD DERIVADOS DO PETROLEO, EXCETO PRODUTOS DO REFINO",10,Risco remoto de envolvimento com atividades ilIcitas
+1931400,FABRICACAO DE ALCOOL,10,Risco remoto de envolvimento com atividades ilIcitas
+1932200,"FABRICACAO DE BIOCOMBUSTIVEIS, EXCETO ALCOOL",10,Risco remoto de envolvimento com atividades ilIcitas
+2011800,FABRICACAO DE CLORO E ALCALIS,10,Risco remoto de envolvimento com atividades ilIcitas
+2012600,FABRICACAO DE INTERMEDIARIOS PARA FERTILIZANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+2013400,FABRICACAO DE ADUBOS E FERTILIZANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+2013401,FABRICACAO DE ADUBOS E FERTILIZANTES ORGANO MINERAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+2014200,FABRICACAO DE GASES INDUSTRIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+2019300,FAB PROD QUIMICOS INORGANICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2019301,ELABORACAO DE COMBUSTIVEIS NUCLEARES,10,Risco remoto de envolvimento com atividades ilIcitas
+2019399,FAB OUTROS PROD QUIM INORGANICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2021500,FABRICACAO DE PRODUTOS PETROQUIMICOS BASICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2022300,"FABRICACAO INTERMEDIARIOS PARA PLASTIFICANTES, RESINAS E FIBRAS",10,Risco remoto de envolvimento com atividades ilIcitas
+2029100,FAB PROD QUIMICOS ORGANICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2031200,FABRICACAO DE RESINAS TERMOPLASTICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2032100,FABRICACAO DE RESINAS TERMOFIXAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2033900,FABRICACAO DE ELASTOMEROS,10,Risco remoto de envolvimento com atividades ilIcitas
+2040100,FABRICACAO DE FIBRAS ARTIFICIAIS E SINTETICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2051700,FABRICACAO DE DEFENSIVOS AGRICOLAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2052500,FABRICACAO DE DESINFESTANTES DOMISSANITARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2061400,FABRICACAO DE SABOES E DETERGENTES SINTETICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2062200,FABRICACAO DE PRODUTOS DE LIMPEZA E POLIMENTO,10,Risco remoto de envolvimento com atividades ilIcitas
+2063100,"FAB DE COSMETICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL",10,Risco remoto de envolvimento com atividades ilIcitas
+2071100,"FABRICACAO DE TINTAS, VERNIZES, ESMALTES E LACAS",10,Risco remoto de envolvimento com atividades ilIcitas
+2072000,FABRICACAO DE TINTAS DE IMPRESSAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2073800,"FABRICACAO DE IMPERMEABILIZANTES, SOLVENTES E PRODUTOS AFINS",10,Risco remoto de envolvimento com atividades ilIcitas
+2091600,FABRICACAO DE ADESIVOS E SELANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+2092400,FABRICACAO DE EXPLOSIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2092401,"FABRICACAO DE POLVORAS, EXPLOSIVOS E DETONANTES",10,Risco remoto de envolvimento com atividades ilIcitas
+2092402,FABRICACAO DE ARTIGOS PIROTECNICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2092403,FABRICACAO DE FOSFOROS DE SEGURANCA,10,Risco remoto de envolvimento com atividades ilIcitas
+2093200,FABRICACAO DE ADITIVOS DE USO INDUSTRIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2094100,FABRICACAO DE CATALISADORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2099100,FABRICACAO DE PRODUTOS QUIMICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2099101,FAB CHAPAS FLMES PPEIS OUT MAT PRODUTOS QUIMICOS PARA FOTOGRAFIA,10,Risco remoto de envolvimento com atividades ilIcitas
+2099199,FAB OUTROS PRODUTOS QUIMICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2110600,FABRICACAO DE PRODUTOS FARMOQUIMICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2121100,FABRICACAO DE MEDICAMENTOS PARA USO HUMANO,10,Risco remoto de envolvimento com atividades ilIcitas
+2121101,FABRICACAO DE MEDICAMENTOS ALOPATICOS PARA USO HUMANO,10,Risco remoto de envolvimento com atividades ilIcitas
+2121102,FABRICACAO DE MEDICAMENTOS HOMEOPATICOS PARA USO HUMANO,10,Risco remoto de envolvimento com atividades ilIcitas
+2121103,FABRICACAO DE MEDICAMENTOS FITOTERAPICOS PARA USO HUMANO,10,Risco remoto de envolvimento com atividades ilIcitas
+2122000,FABRICACAO DE MEDICAMENTOS PARA USO VETERINARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+2123800,FABRICACAO DE PREPARACOES FARMACEUTICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2211100,FABRICACAO DE PNEUMATICOS E DE CAMARAS-DE-AR,10,Risco remoto de envolvimento com atividades ilIcitas
+2212900,REFORMA DE PNEUMATICOS USADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2219600,FAB DE ARTEFATOS DE BORRACHA NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2221800,FABRICACAO DE LAMINADOS PLANOS E TUBULARES DE MATERIAL PLASTICO,10,Risco remoto de envolvimento com atividades ilIcitas
+2222600,FABRICACAO DE EMBALAGENS DE MATERIAL PLASTICO,10,Risco remoto de envolvimento com atividades ilIcitas
+2223400,FAB TUBOS ACESSORIOS DE MATERIAL PLASTICO PARA USO NA CONSTRUCAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2229300,FAB ARTEFATOS MATERIAL PLASTICO NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2229301,FAB ARTEFATOS DE MATERIAL PLASTICO PARA USO PESSOAL E DOMESTICO,10,Risco remoto de envolvimento com atividades ilIcitas
+2229302,FABRICACAO ARTEFATOS DE MATERIAL PLASTICO PARA USOS INDUSTRIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+2229303,"FAB ARTEF MAT PLAST USO NA CONSTRUCAO, EXCETO TUBOS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2229399,FAB ARTEF MAT PLAST P/OUTRO USO NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2311700,FABRICACAO DE VIDRO PLANO E DE SEGURANCA,10,Risco remoto de envolvimento com atividades ilIcitas
+2312500,FABRICACAO DE EMBALAGENS DE VIDRO,10,Risco remoto de envolvimento com atividades ilIcitas
+2319200,FABRICACAO DE ARTIGOS DE VIDRO,10,Risco remoto de envolvimento com atividades ilIcitas
+2320600,FABRICACAO DE CIMENTO,10,Risco remoto de envolvimento com atividades ilIcitas
+2330300,FAB ARTEF CONCRETO CIMENTO FIBROCIMENTO GESSO E MAT SEMELHANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+2330301,FAB ESTRUT PRE-MOLD DE CONCRETO ARMADO EM SERIE E SOB ENCOMENDA,10,Risco remoto de envolvimento com atividades ilIcitas
+2330302,FABRICACAO DE ARTEFATOS DE CIMENTO PARA USO NA CONSTRUCAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2330303,FABRICACAO DE ARTEFATOS DE FIBROCIMENTO PARA USO NA CONSTRUCAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2330304,FABRICACAO DE CASAS PRE-MOLDADAS DE CONCRETO,10,Risco remoto de envolvimento com atividades ilIcitas
+2330305,PREPARACAO DE MASSA DE CONCRETO E ARGAMASSA PARA CONSTRUCAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2330399,FAB OUT ARTEF E PROD CONCRETO CIMENTO FIBROCI GESSO MAT SEMELH,10,Risco remoto de envolvimento com atividades ilIcitas
+2341900,FABRICACAO DE PRODUTOS CERAMICOS REFRATARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2342700,FAB PROD CERAMICO NAO-REFRATARIOS P/USO ESTRUTURAL NA CONSTRUCAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2342701,FABRICACAO DE AZULEJOS E PISOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2342702,FAB ART CERAMICA E BARRO COZIDO P/USO CONSTRUCAO EXC AZUL E PISO,10,Risco remoto de envolvimento com atividades ilIcitas
+2349400,FAB PROD CERAMICOS NAO-REFRATARIOS NAO ESPECIFICADOS ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+2349401,FABRICACAO DE MATERIAL SANITARIO DE CERAMICA,10,Risco remoto de envolvimento com atividades ilIcitas
+2349499,FAB PROD CERAMICOS NAO-REFRATARIOS NAO ESPECIFICADOS ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+2391500,APARELHAMENTO E OUTROS TRABALHOS EM PEDRAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2391501,"BRITAMENTO DE PEDRAS, EXCETO ASSOCIADO A EXTRACAO",10,Risco remoto de envolvimento com atividades ilIcitas
+2391502,"APARELHAMENTO PEDRAS P/CONSTRUCAO, EXCETO ASSOCIADO A EXTRACAO",10,Risco remoto de envolvimento com atividades ilIcitas
+2391503,APRELHA PLACAS E EXECU TRAB EM MARMORE GRANITO ARDOSIA OUT PEDRA,10,Risco remoto de envolvimento com atividades ilIcitas
+2392300,FABRICACAO DE CAL E GESSO,10,Risco remoto de envolvimento com atividades ilIcitas
+2399100,FAB PROD MINERAIS NAO-METALICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2399101,DECOR LAPID GRAV VITRIFICA E OUT TRAB EM CER LOUCA VIDRO CRISTAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2399199,FAB OUT PROD MIN NAO-METALICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2411300,PRODUCAO DE FERRO-GUSA,10,Risco remoto de envolvimento com atividades ilIcitas
+2412100,PRODUCAO DE FERROLIGAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2421100,PRODUCAO DE SEMI-ACABADOS DE ACO,10,Risco remoto de envolvimento com atividades ilIcitas
+2422900,PRODUCAO DE LAMINADOS PLANOS DE ACO,10,Risco remoto de envolvimento com atividades ilIcitas
+2422901,"PRODUCAO LAMINADOS PLANOS DE ACO AO CARBONO, REVESTIDOS OU NAO",10,Risco remoto de envolvimento com atividades ilIcitas
+2422902,PRODUCAO DE LAMINADOS PLANOS DE ACOS ESPECIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+2423700,PRODUCAO DE LAMINADOS LONGOS DE ACO,10,Risco remoto de envolvimento com atividades ilIcitas
+2423701,PRODUCAO DE TUBOS DE ACO SEM COSTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+2423702,"PRODUCAO DE LAMINADOS LONGOS DE ACO, EXCETO TUBOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2424500,"PRODUCAO DE RELAMINADOS, TREFILADOS E PERFILADOS DE ACO",10,Risco remoto de envolvimento com atividades ilIcitas
+2424501,PRODUCAO DE ARAMES DE ACO,10,Risco remoto de envolvimento com atividades ilIcitas
+2424502,"PROD RELAMINADOS, TREFILADOS E PERFILADOS DE ACO, EXCETO ARAMES",10,Risco remoto de envolvimento com atividades ilIcitas
+2431800,PRODUCAO DE TUBOS DE ACO COM COSTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+2439300,PRODUCAO DE OUTROS TUBOS DE FERRO E ACO,10,Risco remoto de envolvimento com atividades ilIcitas
+2441500,METALURGIA DO ALUMINIO E SUAS LIGAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2441501,PRODUCAO DE ALUMINIO E SUAS LIGAS EM FORMAS PRIMARIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2441502,PRODUCAO DE LAMINADOS DE ALUMINIO,10,Risco remoto de envolvimento com atividades ilIcitas
+2442300,METALURGIA DOS METAIS PRECIOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2443100,METALURGIA DO COBRE,10,Risco remoto de envolvimento com atividades ilIcitas
+2449100,METALURGIA METAIS NAO-FERROSOS SUAS LIGAS NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+2449101,PRODUCAO DE ZINCO EM FORMAS PRIMARIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2449102,PRODUCAO DE LAMINADOS DE ZINCO,10,Risco remoto de envolvimento com atividades ilIcitas
+2449103,PRODUCAO DE SOLDAS E ANODOS PARA GALVANOPLASTIA,10,Risco remoto de envolvimento com atividades ilIcitas
+2449199,METALURGIA METAIS NAO-FERROSOS SUAS LIGAS NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+2451200,FUNDICAO DE FERRO E ACO,10,Risco remoto de envolvimento com atividades ilIcitas
+2452100,FUNDICAO DE METAIS NAO-FERROSOS E SUAS LIGAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2511000,FABRICACAO DE ESTRUTURAS METALICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2512800,FABRICACAO DE ESQUADRIAS DE METAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2513600,FABRICACAO DE OBRAS DE CALDEIRARIA PESADA,10,Risco remoto de envolvimento com atividades ilIcitas
+2521700,FAB TANQUES RESERVATORIOS MET E CALDEIRAS P/AQUECIMENTO CENTRAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2522500,FAB CALDEIRAS GERA VAPOR EXC P/AQUECIMENTO CENTRAL E P/VEICULOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2531400,PRODUCAO FORJADOS DE ACO E DE METAIS NAO-FERROSOS E SUAS LIGAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2531401,PRODUCAO DE FORJADOS DE ACO,10,Risco remoto de envolvimento com atividades ilIcitas
+2531402,PRODUCAO DE FORJADOS DE METAIS NAO-FERROSOS E SUAS LIGAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2532200,PRODUCAO DE ARTEFATOS ESTAMPADOS DE METAL; METALURGIA DO PO,10,Risco remoto de envolvimento com atividades ilIcitas
+2532201,PRODUCAO DE ARTEFATOS ESTAMPADOS DE METAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2532202,METALURGIA DO PO,10,Risco remoto de envolvimento com atividades ilIcitas
+2539000,"SERVICOS DE USINAGEM, SOLDA, TRATAMENTO E REVESTIMENTO EM METAIS",10,Risco remoto de envolvimento com atividades ilIcitas
+2539001,"SERVICOS DE USINAGEM, TORNEARIA E SOLDA",10,Risco remoto de envolvimento com atividades ilIcitas
+2539002,SERVICOS DE TRATAMENTO E REVESTIMENTO EM METAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+2541100,FABRICACAO DE ARTIGOS DE CUTELARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+2542000,"FABRICACAO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS",10,Risco remoto de envolvimento com atividades ilIcitas
+2543800,FABRICACAO DE FERRAMENTAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2550100,"FABRICACAO DE EQUIPAMENTO BELICO PESADO, ARMAS DE FOGO E MUNICAO",100,Diretriz Bacen
+2550101,FAB EQUIPAMENTO BELICO PESADO EXC VEICULOS MILITARES DE COMBATE,100,Diretriz Bacen
+2550102,FABRICACAO DE ARMAS DE FOGO E MUNICOES,100,Diretriz Bacen
+2591800,FABRICACAO DE EMBALAGENS METALICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2592600,FABRICACAO DE PRODUTOS DE TREFILADOS DE METAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2592601,FABRICACAO DE PRODUTOS DE TREFILADOS DE METAL PADRONIZADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2592602,"FABRICACAO PRODUTOS DE TREFILADOS DE METAL, EXCETO PADRONIZADOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2593400,FABRICACAO DE ARTIGOS DE METAL PARA USO DOMESTICO E PESSOAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2599300,FABRICACAO DE PRODUTOS DE METAL NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2599301,SERVICOS DE CONFECCAO DE ARMACOES METALICAS PARA A CONSTRUCAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2599399,FABRICACAO DE PRODUTOS DE METAL NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2610800,FABRICACAO DE COMPONENTES ELETRONICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2621300,FABRICACAO DE EQUIPAMENTOS DE INFORMATICA,10,Risco remoto de envolvimento com atividades ilIcitas
+2622100,FABRICACAO DE PERIFERICOS PARA EQUIPAMENTOS DE INFORMATICA,10,Risco remoto de envolvimento com atividades ilIcitas
+2631100,"FAB EQUIPAMENTOS TRANSMISSORES DE COMUNICACAO, PECAS E ACESSORIO",10,Risco remoto de envolvimento com atividades ilIcitas
+2632900,FAB APARELHOS TELEFONICOS E OUT EQUIP COMUNICACAO PECA ACESSORIO,10,Risco remoto de envolvimento com atividades ilIcitas
+2640000,FAB APARELHOS RECEPCAO REPRODUCAO GRAV AMPLIF DE AUDIO E VIDEO,10,Risco remoto de envolvimento com atividades ilIcitas
+2651500,FAB DE APARELHOS E EQUIPAMENTOS DE MEDIDA TESTE E CONTROLE,10,Risco remoto de envolvimento com atividades ilIcitas
+2652300,FABRICACAO DE CRONOMETROS E RELOGIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2660400,FAB APARELHO ELETROMEDICO E ELETROTERAPEUTICO EQ DE IRRADIACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2670100,FAB EQUIPAMENTOS INSTRUMENTOS OPTICOS FOTO E CINEMATOGRAFICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2670101,"FAB DE EQUIPAMENTOS E INSTRUMENTOS OPTICOS, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2670102,"FAB APARELHO FOTOGRAFICO E CINEMATOGRAFICO, PECA E ACESSORIO",10,Risco remoto de envolvimento com atividades ilIcitas
+2680900,"FABRICACAO DE MIDIAS VIRGENS, MAGNETICAS E OPTICAS",10,Risco remoto de envolvimento com atividades ilIcitas
+2710400,"FABRICACAO DE GERADORES, TRANSFORMADORES E MOTORES ELETRICOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2710401,"FABRICACAO DE GERADORES DE CORRENTE CONTINUA E ALTERNADA, PECAS E",10,Risco remoto de envolvimento com atividades ilIcitas
+2710402,FAB TRANSFORMA INDUTOR CONVERSOR SINCRONIZADOR SEMELH PECA ACESS,10,Risco remoto de envolvimento com atividades ilIcitas
+2710403,"FABRICACAO DE MOTORES ELETRICOS, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2721000,FAB PILHAS BATERIAS ACUMULADORES ELETRI EXC P/VEICULO AUTOMOTOR,10,Risco remoto de envolvimento com atividades ilIcitas
+2722800,FABRICACAO DE BATERIAS E ACUMULADORES PARA VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2722801,FABRICACAO DE BATERIAS E ACUMULADORES PARA VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2722802,RECONDICIONAMENTO DE BATERIAS ACUMULADORES P/VEICULO AUTOMOTOR,10,Risco remoto de envolvimento com atividades ilIcitas
+2731700,FAB APARELHOS EQUIP P/DISTRIBUICAO CONTROLE DE ENERGIA ELETRICA,10,Risco remoto de envolvimento com atividades ilIcitas
+2732500,FAB MATERIAL ELETRICO PARA INSTALACOES EM CIRCUITO DE CONSUMO,10,Risco remoto de envolvimento com atividades ilIcitas
+2733300,"FABRICACAO DE FIOS, CABOS E CONDUTORES ELETRICOS ISOLADOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2740600,FABRICACAO DE LAMPADAS E OUTROS EQUIPAMENTOS DE ILUMINACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2740601,FABRICACAO DE LAMPADAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2740602,FABRICACAO DE LUMINARIAS E OUTROS EQUIPAMENTOS DE ILUMINACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2751100,FAB FOGAO REFRIGERA MAQ LAVAR SECAR P/USO DOMESTICO PECA ACESS,10,Risco remoto de envolvimento com atividades ilIcitas
+2759700,FAB APARELHOS ELETRODOMESTICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2759701,"FAB DE APARELHOS ELETRICOS DE USO PESSOAL, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2759799,FAB APARELHOS ELETRODOMESTICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2790200,FAB EQUIP E APARELHOS ELETRICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2790201,FAB ELETRODO CONTATO ART CARVAO GRAFITA USO ELET ELTRIMA ISOLA,10,Risco remoto de envolvimento com atividades ilIcitas
+2790202,FABRICACAO DE EQUIPAMENTOS PARA SINALIZACAO E ALARME,10,Risco remoto de envolvimento com atividades ilIcitas
+2790299,FAB EQUIP E APARELHOS ELETRICOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2811900,FAB MOTOR TURBINA PECA ACESSORIO EXC P/AVIAO VEICULO RODOVIARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+2812700,FAB EQ HIDRAULICO PNEUMATICO PECA E ACESSORIO EXCETO VALVULAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2813500,FAB VALVULA REGISTRO DISPOSITIVO SEMELHANTE PECA E ACESSORIO,10,Risco remoto de envolvimento com atividades ilIcitas
+2814300,FABRICACAO DE COMPRESSORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2814301,"FABRICACAO DE COMPRESSORES PARA USO INDUSTRIAL, PECA E ACESSORIO",10,Risco remoto de envolvimento com atividades ilIcitas
+2814302,"FAB COMPRESSORES PARA USO NAO-INDUSTRIAL, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2815100,FABRICACAO DE EQUIPAMENTOS DE TRANSMISSAO PARA FINS INDUSTRIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+2815101,FABRICACAO DE ROLAMENTOS PARA FINS INDUSTRIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+2815102,"FAB EQUIP DE TRANSMISSAO PARA FINS INDUSTRIAIS, EXCETO ROLAMENTO",10,Risco remoto de envolvimento com atividades ilIcitas
+2821600,FABRICACAO DE APARELHOS E EQUIPAMENTOS PARA INSTALACOES TERMICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2821601,FAB FORNO INDAL AP EQ NAO-ELETRICO P/INSTALACAO TERM PEC ACES,10,Risco remoto de envolvimento com atividades ilIcitas
+2821602,FAB FORNO INDAL AP EQ ELETRICO P/INSTALACAO TERM PEC ACES,10,Risco remoto de envolvimento com atividades ilIcitas
+2822400,FAB MAQ EQ APARELHOS P/TRANSP E ELEVACAO DE CARGAS E PESSOAS,10,Risco remoto de envolvimento com atividades ilIcitas
+2822401,FAB MAQ EQUIP APARELHOS P/TRANSP ELEVACAO PESSOAS PECA ACESSORIO,10,Risco remoto de envolvimento com atividades ilIcitas
+2822402,FAB MAQ EQUIP APARELHOS P/TRANSP ELEVACAO CARGAS PECA ACESSORIO,10,Risco remoto de envolvimento com atividades ilIcitas
+2823200,FAB MAQ APARELHO REFRIG VENTIL P/USO INDAL E COMAL PECA ACESS,10,Risco remoto de envolvimento com atividades ilIcitas
+2824100,FABRICACAO DE APARELHOS E EQUIPAMENTOS DE AR CONDICIONADO,10,Risco remoto de envolvimento com atividades ilIcitas
+2824101,FAB APARELHOS EQUIP DE AR CONDICIONADO PARA USO INDUSTRIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2824102,FAB APARELHOS EQUIP DE AR CONDICIONADO PARA USO NAO-INDUSTRIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+2825900,FAB MAQ EQ PARA SANEAMENTO BASICO E AMBIENTAL PECAS E ACESSORIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2829100,FAB MAQ EQ DE USO GERAL NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2829101,FAB MAQ ESCREVER CALC OUT EQ NAO-ELETRONICO P/ESCRI PECA ACESS,10,Risco remoto de envolvimento com atividades ilIcitas
+2829199,FAB OUTRAS MAQ EQ DE USO GERAL NAO ESPECI ANTERIOR PECA ACESS,10,Risco remoto de envolvimento com atividades ilIcitas
+2831300,"FABRICACAO DE TRATORES AGRICOLAS, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2832100,"FAB EQUIPAMENTOS PARA IRRIGACAO AGRICOLA, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2833000,FAB MAQ EQ P/AGRIC E PECUARIA PECA ACESS EXCETO PARA IRRIGACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+2840200,"FABRICACAO DE MAQUINAS-FERRAMENTA, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2851800,FAB MAQUINAS EQ P/PROSPECCAO EXTRACAO DE PETROLEO PECA E ACESS,10,Risco remoto de envolvimento com atividades ilIcitas
+2852600,FAB OUT MAQ EQ USO NA EXTRACAO MINERAL PECA ACESS EXC EXTRA PETR,10,Risco remoto de envolvimento com atividades ilIcitas
+2853400,"FABRICACAO DE TRATORES, PECAS E ACESSORIOS, EXCETO AGRICOLAS",10,Risco remoto de envolvimento com atividades ilIcitas
+2854200,FAB MAQ EQUIP TERRAPLEN PAVIMENT CONST PECA ACESS EXC TRATORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2861500,FAB MAQ INDUSTRIA METALURGICA PECA ACESS EXC MAQUINAS-FERRAMENTA,10,Risco remoto de envolvimento com atividades ilIcitas
+2862300,FAB MAQ EQ INDUSTRIA ALIMENTOS BEBIDAS E FUMO PECAS E ACESSORIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+2863100,"FAB MAQ EQUIPAMENTOS PARA A INDUSTRIA TEXTIL, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2864000,"FAB MAQ EQ IND VESTUARIO COURO E CALCADOS, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2865800,FAB MAQ EQ IND CELULOSE PAPEL PAPELAO ARTEFATOS PECA ACESS,10,Risco remoto de envolvimento com atividades ilIcitas
+2866600,"FAB MAQ EQUIP PARA A INDUSTRIA DO PLASTICO, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2869100,FAB MAQ EQUIP USO INDAL ESPEC NAO ESPECI ANTERIOR PECA ACESS,10,Risco remoto de envolvimento com atividades ilIcitas
+2910700,"FABRICACAO DE AUTOMOVEIS, CAMIONETAS E UTILITARIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2910701,"FABRICACAO DE AUTOMOVEIS, CAMIONETAS E UTILITARIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2910702,FAB DE CHASSIS COM MOTOR PARA AUTOMOVEL CAMIONETA E UTILITARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+2910703,"FABRICACAO DE MOTORES PARA AUTOMOVEIS, CAMIONETAS E UTILITARIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+2920400,FABRICACAO DE CAMINHOES E ONIBUS,10,Risco remoto de envolvimento com atividades ilIcitas
+2920401,FABRICACAO DE CAMINHOES E ONIBUS,10,Risco remoto de envolvimento com atividades ilIcitas
+2920402,FABRICACAO DE MOTORES PARA CAMINHOES E ONIBUS,10,Risco remoto de envolvimento com atividades ilIcitas
+2930100,"FAB DE CABINES, CARROCERIAS E REBOQUES PARA VEICULOS AUTOMOTORES",10,Risco remoto de envolvimento com atividades ilIcitas
+2930101,"FABRICACAO DE CABINES, CARROCERIAS E REBOQUES PARA CAMINHOES",10,Risco remoto de envolvimento com atividades ilIcitas
+2930102,FABRICACAO DE CARROCERIAS PARA ONIBUS,10,Risco remoto de envolvimento com atividades ilIcitas
+2930103,FAB CAB CARROC REBOQUE P/OUT VEICULOS AUTOMOTORES EXC CAMINH BUS,10,Risco remoto de envolvimento com atividades ilIcitas
+2941700,FAB PECAS E ACESSORIOS P/O SISTEMA MOTOR DE VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2942500,FAB PECA ACESS P/SIST DE MARCHA E TRANSMISSAO VEICULO AUTOMOTOR,10,Risco remoto de envolvimento com atividades ilIcitas
+2943300,FAB PECA ACESSORIO P/O SISTEMA DE FREIOS DE VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2944100,FAB PECA ACESSORIO P/SIST DIRECAO SUSPENSAO VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2945000,FAB MATERIAL ELETRICO ELETRONICO P/VEICULO AUTOMOTOR EXC BATERIA,10,Risco remoto de envolvimento com atividades ilIcitas
+2949200,FAB PECA ACESSORIO P/VEICULO AUTOMOTOR NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+2949201,FABRICACAO DE BANCOS E ESTOFADOS PARA VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+2949299,FAB OUTRAS PECAS ACESS P/VEIC AUTOMOTORES NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+2950600,RECONDICIONAMENTO E RECUPERACAO MOTORES P/VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+3011300,CONSTRUCAO DE EMBARCACOES E ESTRUTURAS FLUTUANTES,100,ComErcio de bens de luxo ou de alto valor
+3011301,CONSTRUCAO DE EMBARCACOES DE GRANDE PORTE,100,ComErcio de bens de luxo ou de alto valor
+3011302,CONSTRUCAO EMBARCACAO USO COMERCIAL E P/USO ESPECIAL EXC GDE PTE,100,ComErcio de bens de luxo ou de alto valor
+3012100,CONSTRUCAO DE EMBARCACOES PARA ESPORTE E LAZER,100,ComErcio de bens de luxo ou de alto valor
+3031800,"FABRICACAO DE LOCOMOTIVAS, VAGOES E OUTROS MATERIAIS RODANTES",80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+3032600,FABRICACAO DE PECAS E ACESSORIOS PARA VEICULOS FERROVIARIOS,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+3041500,FABRICACAO DE AERONAVES,100,ComErcio de bens de luxo ou de alto valor
+3042300,FAB TURBINAS MOTORES E OUTROS COMPONENTES E PECAS PARA AERONAVES,10,Risco remoto de envolvimento com atividades ilIcitas
+3050400,FABRICACAO DE VEICULOS MILITARES DE COMBATE,100,Diretriz Bacen
+3091100,"FABRICACAO DE MOTOCICLETAS, PECAS E ACESSORIOS",100,ComErcio de bens de luxo ou de alto valor
+3092000,"FAB BICICLETAS E TRICICLOS NAO-MOTORIZADOS, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+3099700,FAB EQUIPAMENTOS DE TRANSPORTE NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3101200,FABRICACAO DE MOVEIS COM PREDOMINANCIA DE MADEIRA,10,Risco remoto de envolvimento com atividades ilIcitas
+3102100,FABRICACAO DE MOVEIS COM PREDOMINANCIA DE METAL,10,Risco remoto de envolvimento com atividades ilIcitas
+3103900,"FABRICACAO DE MOVEIS DE OUTROS MATERIAIS, EXCETO MADEIRA E METAL",10,Risco remoto de envolvimento com atividades ilIcitas
+3104700,FABRICACAO DE COLCHOES,10,Risco remoto de envolvimento com atividades ilIcitas
+3211600,LAPIDACAO DE GEMAS E FAB ARTEFATOS DE OURIVESARIA E JOALHERIA,100,ComErcio de bens de luxo ou de alto valor
+3211601,LAPIDACAO DE GEMAS,100,ComErcio de bens de luxo ou de alto valor
+3211602,FABRICACAO DE ARTEFATOS DE JOALHERIA E OURIVESARIA,100,ComErcio de bens de luxo ou de alto valor
+3211603,CUNHAGEM DE MOEDAS E MEDALHAS,10,Risco remoto de envolvimento com atividades ilIcitas
+3212400,FABRICACAO DE BIJUTERIAS E ARTEFATOS SEMELHANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+3220500,"FABRICACAO DE INSTRUMENTOS MUSICAIS, PECAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+3230200,FABRICACAO DE ARTEFATOS PARA PESCA E ESPORTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3240000,FABRICACAO DE BRINQUEDOS E JOGOS RECREATIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3240001,FABRICACAO DE JOGOS ELETRONICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3240002,FAB MESAS DE BILHAR SINUCA E ACESSORIOS NAO ASSOCIADA A LOCACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+3240003,"FAB MESAS DE BILHAR, DE SINUCA E ACESSORIOS ASSOCIADA A LOCACAO",10,Risco remoto de envolvimento com atividades ilIcitas
+3240099,FAB OUTROS BRINQUEDOS E JOGOS RECREAT NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3250700,FAB INSTRUMENTOS E MATERIAIS P/MEDICO ODONTOLOGICO E ART OPTICOS,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+3250701,FAB INSTRU NAO-ELETRON UTENSILIOS P/MEDICO CIRURG ODONTO LABORAT,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+3250702,"FAB MOBILIARIO P/MEDICO CIRURGICO, ODONTOLOGICO E DE LABORATORIO",50,Risco de envolvimento com corrupCAo em contratos pUblicos
+3250703,FAB AP UTENSI CORRECAO DEF FIS AP ORTOPE EM GERAL SOB ENCOMENDA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+3250704,FAB AP UTENSI CORRECAO DEF FIS AP ORTOPE EM GERAL EXC SOB ENCOM,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+3250705,FABRICACAO DE MATERIAIS PARA MEDICINA E ODONTOLOGIA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+3250706,SERVICOS DE PROTESE DENTARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+3250707,FABRICACAO DE ARTIGOS OPTICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3250708,FAB ARTEFATO DE TECIDO NAO TECIDO P/USO ODONTO-MEDICO-HOSPITALAR,10,Risco remoto de envolvimento com atividades ilIcitas
+3291400,"FABRICACAO DE ESCOVAS, PINCEIS E VASSOURAS",10,Risco remoto de envolvimento com atividades ilIcitas
+3292200,FAB EQUIP ACESS PARA SEGURANCA E PROTECAO PESSOAL E PROFISSIONAL,10,Risco remoto de envolvimento com atividades ilIcitas
+3292201,FABRICACAO ROUPAS DE PROTECAO E SEGURANCA E RESISTENTES A FOGO,10,Risco remoto de envolvimento com atividades ilIcitas
+3292202,FAB EQUIPAMENTOS ACESSORIOS P/SEGURANCA PESSOAL E PROFISSIONAL,10,Risco remoto de envolvimento com atividades ilIcitas
+3299000,FABRICACAO DE PRODUTOS DIVERSOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3299001,FABRICACAO DE GUARDA-CHUVAS E SIMILARES,10,Risco remoto de envolvimento com atividades ilIcitas
+3299002,"FABRICACAO DE CANETAS, LAPIS E OUTROS ARTIGOS PARA ESCRITORIO",10,Risco remoto de envolvimento com atividades ilIcitas
+3299003,FAB LETRAS LETREIROS PLACAS DE QUALQUER MATERIAL EXC LUMINOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3299004,FABRICACAO DE PAINEIS E LETREIROS LUMINOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3299005,FABRICACAO DE AVIAMENTOS PARA COSTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+3299099,FABRICACAO DE PRODUTOS DIVERSOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3311200,MANUTENCAO REPARACAO TANQUES RESERVAT METAL CALDEIRA EXC P/ VEIC,10,Risco remoto de envolvimento com atividades ilIcitas
+3312100,MANUTENCAO E REPARACAO DE EQUIPAMENTOS ELETRONICOS E OPTICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3312101,MANUTENCAO REPARACAO EQUIPAMENTOS TRANSMISSORES DE COMUNICACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+3312102,MANUTENCAO REPARACAO APARELHOS INSTRUMENTOS MEDIDA TSTE CONTROLE,10,Risco remoto de envolvimento com atividades ilIcitas
+3312103,MANUT REPARA APAR ELETROMEDICOS ELETROTERAPEU EQ DE IRRADIACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+3312104,MANUTENCAO E REPARACAO DE EQUIPAMENTOS E INSTRUMENTOS OPTICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3313900,MANUTENCAO E REPARACAO DE MAQUINAS E EQUIPAMENTOS ELETRICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3313901,MANUTENCAO E REPARACAO GERADOR TRANSFORMADOR MOTORES ELETRICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3313902,MANUTENCAO REPARACAO BATERIA ACUMULADOR ELETR EXC PARA VEICULOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3313999,MANUTENCAO REPARACAO MAQ APAR MAT ELETR NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3314700,MANUTENCAO REPARACAO MAQUINAS EQUIPAMENTOS DA INDUSTRIA MECANICA,10,Risco remoto de envolvimento com atividades ilIcitas
+3314701,MANUTENCAO E REPARACAO DE MAQUINAS MOTRIZES NAO-ELETRICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314702,MANUTENCAO REPARACAO EQUIP HIDRAULICOS PNEUMATICOS EXC VALVULAS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314703,MANUTENCAO E REPARACAO DE VALVULAS INDUSTRIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314704,MANUTENCAO E REPARACAO DE COMPRESSORES,10,Risco remoto de envolvimento com atividades ilIcitas
+3314705,MANUTENCAO REPARACAO EQUIPAMENTOS TRANSMISSAO P/FINS INDUSTRIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314706,MANUTENCAO REPARACAO MAQ APARELHOS EQUIP P/INSTALACOES TERMICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314707,MANUTENCAO REPARACAO MAQ APAR REFRIG VENT P/USO INDAL E COMAL,10,Risco remoto de envolvimento com atividades ilIcitas
+3314708,MANUTENCAO REPARACAO MAQ EQUIP APAR P/TRANSP ELEV DE CARGAS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314709,MANUTENCAO REPARACAO MAQ ESC CALC OUT EQUIP NAO-ELETRON P/ESCRIT,10,Risco remoto de envolvimento com atividades ilIcitas
+3314710,MANUTENCAO REPARACAO MAQ EQUIP P/USO GERAL NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+3314711,MANUTENCAO REPARACAO MAQ EQUIP PARA AGRICULTURA E PECUARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+3314712,MANUTENCAO E REPARACAO DE TRATORES AGRICOLAS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314713,MANUTENCAO E REPARACAO DE MAQUINAS-FERRAMENTA,10,Risco remoto de envolvimento com atividades ilIcitas
+3314714,MANUTENCAO REPARACAO MAQ EQUIP P/PROSPECCAO EXTRACAO DE PETROLEO,10,Risco remoto de envolvimento com atividades ilIcitas
+3314715,MANUTENCAO REPARACAO MAQ EQUIP P/EXTRACAO MIN EXC EXTRA PETROLEO,10,Risco remoto de envolvimento com atividades ilIcitas
+3314716,"MANUTENCAO E REPARACAO DE TRATORES, EXCETO AGRICOLAS",10,Risco remoto de envolvimento com atividades ilIcitas
+3314717,MANUTENCAO REPARACAO MAQ EQ TERRAPL PAV CONST EXCETO TRATORES,10,Risco remoto de envolvimento com atividades ilIcitas
+3314718,MANUTENCAO REPARACAO MAQ P/IND METALURGICA EXC MAQ-FERRAMENTA,10,Risco remoto de envolvimento com atividades ilIcitas
+3314719,"MANUTENCAO REPARACAO MAQ EQ P/IND DE ALIMENTOS, BEBIDAS E FUMO",10,Risco remoto de envolvimento com atividades ilIcitas
+3314720,MANUTENCAO REPARACAO MAQ EQ P/IND TEXTIL VEST COURO E CALCADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314721,MANUTENCAO REPARACAO MAQ APAR P/IND CELULOSE PAP PPLAO ARTEFATOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3314722,MANUTENCAO REPARACAO MAQ APARELHOS PARA A INDUSTRIA DO PLASTICO,10,Risco remoto de envolvimento com atividades ilIcitas
+3314799,MANUTENCAO REPARACAO OUT MAQ EQ P/IND NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3315500,MANUTENCAO E REPARACAO DE VEICULOS FERROVIARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3316300,MANUTENCAO E REPARACAO DE AERONAVES,10,Risco remoto de envolvimento com atividades ilIcitas
+3316301,MANUTENCAO E REPARACAO DE AERONAVES EXCETO A MANUTENCAO NA PISTA,10,Risco remoto de envolvimento com atividades ilIcitas
+3316302,MANUTENCAO DE AERONAVES NA PISTA,10,Risco remoto de envolvimento com atividades ilIcitas
+3317100,MANUTENCAO E REPARACAO DE EMBARCACOES,10,Risco remoto de envolvimento com atividades ilIcitas
+3317101,MANUTENCAO E REPARACAO DE EMBARCACOES E ESTRUTURAS FLUTUANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+3317102,MANUTENCAO E REPARACAO DE EMBARCACOES PARA ESPORTE E LAZER,10,Risco remoto de envolvimento com atividades ilIcitas
+3319800,MANUTENCAO REPARACAO EQUIP PRODUTOS NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3321000,INSTALACAO DE MAQUINAS E EQUIPAMENTOS INDUSTRIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+3329500,INSTALACAO DE EQUIPAMENTOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3329501,SERVICOS DE MONTAGEM DE MOVEIS DE QUALQUER MATERIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+3329599,INSTALACAO DE OUTROS EQUIPAMENTOS NAO ESPECIFICADOS ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4511102,"COMERCIO A VAREJO DE AUTOMOVEIS, CAMIONETAS E UTILITARIOS USADOS",100,ComErcio de bens de luxo ou de alto valor
+4744002,COMERCIO VAREJISTA DE MADEIRA E ARTEFATOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3511500,GERACAO DE ENERGIA ELETRICA,10,Risco remoto de envolvimento com atividades ilIcitas
+3511501,GERACAO DE ENERGIA ELETRICA,10,Risco remoto de envolvimento com atividades ilIcitas
+3512300,TRANSMISSAO DE ENERGIA ELETRICA,10,Risco remoto de envolvimento com atividades ilIcitas
+3513100,COMERCIO ATACADISTA DE ENERGIA ELETRICA,10,Risco remoto de envolvimento com atividades ilIcitas
+3514000,DISTRIBUICAO DE ENERGIA ELETRICA,10,Risco remoto de envolvimento com atividades ilIcitas
+3520400,PROD GAS PROCESS GAS NATURAL DISTRI COMBUST GASOSO P/REDE URBANA,10,Risco remoto de envolvimento com atividades ilIcitas
+3520401,PRODUCAO DE GAS; PROCESSAMENTO DE GAS NATURAL,10,Risco remoto de envolvimento com atividades ilIcitas
+3520402,DISTRIBUICAO DE COMBUSTIVEIS GASOSOS POR REDES URBANAS,10,Risco remoto de envolvimento com atividades ilIcitas
+3530100,"PRODUCAO E DISTRIBUICAO DE VAPOR, AGUA QUENTE E AR CONDICIONADO",10,Risco remoto de envolvimento com atividades ilIcitas
+3600600,"CAPTACAO, TRATAMENTO E DISTRIBUICAO DE AGUA",10,Risco remoto de envolvimento com atividades ilIcitas
+3600601,"CAPTACAO, TRATAMENTO E DISTRIBUICAO DE AGUA",10,Risco remoto de envolvimento com atividades ilIcitas
+3600602,DISTRIBUICAO DE AGUA POR CAMINHOES,10,Risco remoto de envolvimento com atividades ilIcitas
+3701100,GESTAO DE REDES DE ESGOTO,10,Risco remoto de envolvimento com atividades ilIcitas
+3702900,"ATIVIDADES RELACIONADAS A ESGOTO, EXCETO A GESTAO DE REDES",10,Risco remoto de envolvimento com atividades ilIcitas
+3811400,COLETA DE RESIDUOS NAO-PERIGOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3812200,COLETA DE RESIDUOS PERIGOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3821100,TRATAMENTO E DISPOSICAO DE RESIDUOS NAO-PERIGOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3822000,TRATAMENTO E DISPOSICAO DE RESIDUOS PERIGOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3831900,RECUPERACAO DE MATERIAIS METALICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3831901,RECUPERACAO DE SUCATAS DE ALUMINIO,10,Risco remoto de envolvimento com atividades ilIcitas
+3831999,"RECUPERACAO DE MATERIAIS METALICOS, EXCETO ALUMINIO",10,Risco remoto de envolvimento com atividades ilIcitas
+3832700,RECUPERACAO DE MATERIAIS PLASTICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+3839400,RECUPERACAO DE MATERIAIS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3839401,USINAS DE COMPOSTAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+3839499,RECUPERACAO DE MATERIAIS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+3900500,DESCONTAMINACAO E OUTROS SERVICOS DE GESTAO DE RESIDUOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4110700,INCORPORACAO DE EMPREENDIMENTOS IMOBILIARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4120400,CONSTRUCAO DE EDIFICIOS,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4211100,CONSTRUCAO DE RODOVIAS E FERROVIAS,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4211101,CONSTRUCAO DE RODOVIAS E FERROVIAS,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4211102,PINTURA PARA SINALIZACAO EM PISTAS RODOVIARIAS E AEROPORTOS,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4212000,CONSTRUCAO DE OBRAS-DE-ARTE ESPECIAIS,100,Alto risco de envolvimento com crime organizado e lavagem de dinheiro
+4213800,"OBRAS DE URBANIZACAO - RUAS, PRACAS E CALCADAS",80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4221900,OBRAS PARA GERACAO E DISTRIBUICAO DE ENERGIA ELETRICA E PARA TELE,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4221901,CONSTRUCAO DE BARRAGENS E REPRESAS PARA GERACAO DE ENERGIA ELETRI,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4221902,CONSTRUCAO DE ESTACAO E REDE DE DISTRIBUICAO DE ENERGIA ELETRICA,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4221903,MANUTENCAO DE REDES DE DISTRIBUICAO DE ENERGIA ELETRICA,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4221904,CONSTRUCAO DE ESTACOES E REDES DE TELECOMUNICACOES,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4221905,MANUTENCAO DE ESTACOES E REDES DE TELECOMUNICACOES,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4222700,CONSTR REDE ABASTECI AGUA COLETA ESGOTO E CONSTRUCOES CORRELATAS,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4222701,CONSTR REDE ABAST AGUA COLETA ESGOTO CONSTR CORREL EXC IRRIGACAO,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4222702,OBRAS DE IRRIGACAO,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4223500,CONSTRUCAO REDES TRANSPORTES POR DUTOS EXCETO PARA AGUA E ESGOTO,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4291000,"OBRAS PORTUARIAS, MARITIMAS E FLUVIAIS",80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4292800,MONTAGEM DE INSTALACOES INDUSTRIAIS E DE ESTRUTURAS METALICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4292801,MONTAGEM DE ESTRUTURAS METALICAS,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4292802,OBRAS DE MONTAGEM INDUSTRIAL,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4299500,OBRAS DE ENGENHARIA CIVIL NAO ESPECIFICADAS ANTERIORMENTE,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4299501,CONSTRUCAO DE INSTALACOES ESPORTIVAS E RECREATIVAS,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4299599,OUTRAS OBRAS DE ENGENHARIA CIVIL NAO ESPECIFICADAS ANTERIORMENTE,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4311800,DEMOLICAO E PREPARACAO DE CANTEIROS DE OBRAS,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4311801,DEMOLICAO DE EDIFICIOS E OUTRAS ESTRUTURAS,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4311802,PREPARACAO DE CANTEIRO E LIMPEZA DE TERRENO,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4312600,PERFURACOES E SONDAGENS,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4313400,OBRAS DE TERRAPLENAGEM,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4319300,SERVICOS PREPARACAO DO TERRENO NAO ESPECIFICADOS ANTERIORMENTE,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4321500,INSTALACAO E MANUTENCAO ELETRICA,10,Risco remoto de envolvimento com atividades ilIcitas
+4322300,"INSTALACAO HIDRAULICA, DE SISTEMA DE VENTILACAO E REFRIGERACAO",10,Risco remoto de envolvimento com atividades ilIcitas
+4322301,"INSTALACOES HIDRAULICAS, SANITARIAS E DE GAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4322302,INSTALACAO MANUTENCAO SISTEMA CENTRAL AR CONDICIONADO VENT REFRI,10,Risco remoto de envolvimento com atividades ilIcitas
+4322303,INSTALACOES DE SISTEMA DE PREVENCAO CONTRA INCENDIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4329100,OBRAS INSTALACOES EM CONSTRUCOES NAO ESPECIFICADAS ANTERIORMENTE,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4329101,INSTALACAO DE PAINEIS PUBLICITARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4329102,INSTALACAO EQ P/ORIENTACAO NAVEGACAO MARITIMA FLUVIAL LACUSTRE,10,Risco remoto de envolvimento com atividades ilIcitas
+4329103,INSTALACAO MANUT REPAR ELEVADOR ESCAD ESTEIR ROL EXC FAB PROPRIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4329104,"MONT INST SIST EQ ILUMI SINAL VIAS PUBLICAS, PORTOS E AEROPORTOS",10,Risco remoto de envolvimento com atividades ilIcitas
+4329105,"TRATAMENTOS TERMICOS, ACUSTICOS OU DE VIBRACAO",10,Risco remoto de envolvimento com atividades ilIcitas
+4329199,OUTRAS OBRAS DE INSTALACOES EM CONSTRUCOES NAO ESPECI ANTERIO,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4330400,OBRAS DE ACABAMENTO,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4330401,IMPERMEABILIZACAO EM OBRAS DE ENGENHARIA CIVIL,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4330402,INSTALACAO PORTA JANELA TETO DIVISOR ARMARIO EMBUT QQ MATERIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4330403,OBRAS DE ACABAMENTO EM GESSO E ESTUQUE,10,Risco remoto de envolvimento com atividades ilIcitas
+4330404,SERVICOS DE PINTURA DE EDIFICIOS EM GERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4330405,APLICACAO DE REVESTIMENTOS E DE RESINAS EM INTERIORE E EXTERIORE,10,Risco remoto de envolvimento com atividades ilIcitas
+4330499,OUTRAS OBRAS DE ACABAMENTO DA CONSTRUCAO,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4391600,OBRAS DE FUNDACOES,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4399100,SERV ESPECIALIZADO P/CONSTRUCAO NAO ESPECIFICADOS ANTERIORMENTE,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4399101,ADMINISTRACAO DE OBRAS,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4399102,MONTAGEM E DESMONTAGEM DE ANDAIMES OUTRAS ESTRUTURAS TEMPORARIA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4399103,OBRAS DE ALVENARIA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4399104,SERV OPER FORNECI EQ P/TRANSP ELEV CARGA PESSOA P/USO EM OBRAS,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4399105,PERFURACAO E CONSTRUCAO DE POCOS DE AGUA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4399199,SERV ESPECIALIZADOS P/CONSTRUCAO NAO ESPECIFICADOS ANTERIORMENTE,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4511100,COMERCIO A VAREJO E POR ATACADO DE VEICULOS AUTOMOTORES,100,ComErcio de bens de luxo ou de alto valor
+4511101,"COMERCIO A VAREJO DE AUTOMOVEIS, CAMIONETAS E UTILITARIOS NOVOS",100,ComErcio de bens de luxo ou de alto valor
+4511102,"COMERCIO A VAREJO DE AUTOMOVEIS, CAMIONETAS E UTILITARIOS USADOS",100,ComErcio de bens de luxo ou de alto valor
+4511103,COM ATACADO DE AUTOMOVEIS CAMIONETAS UTILITARIOS NOVOS E USADOS,100,ComErcio de bens de luxo ou de alto valor
+4511104,COMERCIO POR ATACADO DE CAMINHOES NOVOS E USADOS,100,ComErcio de bens de luxo ou de alto valor
+4511105,COMERCIO POR ATACADO DE REBOQUES E SEMI-REBOQUES NOVOS E USADOS,100,ComErcio de bens de luxo ou de alto valor
+4511106,COMERCIO POR ATACADO DE ONIBUS E MICROONIBUS NOVOS E USADOS,100,ComErcio de bens de luxo ou de alto valor
+4512900,REPRES COMERCIAIS E AGENTES DO COMERCIO DE VEICULOS AUTOMOTORES,100,ComErcio de bens de luxo ou de alto valor
+4512901,REPRES COMERCIAIS E AGENTES DO COMERCIO DE VEICULOS AUTOMOTORES,100,ComErcio de bens de luxo ou de alto valor
+4512902,COMERCIO SOB CONSIGNACAO DE VEICULOS AUTOMOTORES,100,ComErcio de bens de luxo ou de alto valor
+4520000,MANUTENCAO E REPARACAO DE VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+4520001,SERVICOS MANUTENCAO E REPARACAO MECANICA DE VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+4520002,SERV LANTERNAGEM OU FUNILARIA E PINTURA DE VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+4520003,SERV DE MANUTENCAO E REPARACAO ELETRICA DE VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+4520004,SERVICOS DE ALINHAMENTO E BALANCEAMENTO DE VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+4520005,SERV DE LAVAGEM LUBRIFICACAO E POLIMENTO DE VEICULOS AUTOMOTORES,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+4520006,SERVICOS DE BORRACHARIA PARA VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+4520007,SERVI INSTAL MANUTENCAO REPARACAO ACESSORIOS P/VEICULO AUTOMOTOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4530700,COMERCIO DE PECAS E ACESSORIOS PARA VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+4530701,COM ATACADO DE PECAS E ACESSORIOS NOVOS PARA VEICULO AUTOMOTOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4530702,COMERCIO POR ATACADO DE PNEUMATICOS E CAMARAS-DE-AR,10,Risco remoto de envolvimento com atividades ilIcitas
+4530703,COM VAREJO DE PECAS E ACESSORIOS NOVOS PARA VEICULOS AUTOMOTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+4530704,COM VAREJO DE PECAS E ACESSORIOS USADOS PARA VEICULO AUTOMOTOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4530705,COMERCIO A VAREJO DE PNEUMATICOS E CAMARAS-DE-AR,10,Risco remoto de envolvimento com atividades ilIcitas
+4530706,REPRES COMAL AGEN COM PECA ACESS NOVO USADO P/VEICULO AUTOMOTOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4541200,"COM ATACADO E A VAREJO DE MOTOCICLETAS, PECAS E ACESSORIOS",100,ComErcio de bens de luxo ou de alto valor
+4541201,COMERCIO POR ATACADO DE MOTOCICLETAS E MOTONETAS,100,ComErcio de bens de luxo ou de alto valor
+4541202,COM ATACADO DE PECAS E ACESSORIOS PARA MOTOCICLETAS E MOTONETAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4541203,COMERCIO A VAREJO DE MOTOCICLETAS E MOTONETAS NOVAS,100,ComErcio de bens de luxo ou de alto valor
+4541204,COMERCIO A VAREJO DE MOTOCICLETAS E MOTONETAS USADAS,100,ComErcio de bens de luxo ou de alto valor
+4541205,COM A VAREJO DE PECAS E ACESSORIOS PARA MOTOCICLETAS E MOTONETAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4541206,COMERCIO  VAREJO DE PECAS E ACESSORIOS NOVOS PARA MOTOCICLETAS E M,10,Risco remoto de envolvimento com atividades ilIcitas
+4542100,"REPRES COMAL AGENTE DO COM DE MOTOCICLETAS, PECAS E ACESSORIOS",100,ComErcio de bens de luxo ou de alto valor
+4542101,"REPRES COMAL AGENTE DO COM DE MOTOCICLETAS, PECAS E ACESSORIOS",100,ComErcio de bens de luxo ou de alto valor
+4542102,COMERCIO SOB CONSIGNACAO DE MOTOCICLETAS E MOTONETAS,100,ComErcio de bens de luxo ou de alto valor
+4543900,MANUTENCAO E REPARACAO DE MOTOCICLETAS E MOTONETAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4611700,REPRES COMAL AGENTE COM MATERIA-PRIMA AGRICOLA E ANIMAIS VIVOS,80,Risco de envolvimento com crime organizado e crimes ambientais
+4612500,REPRES COMAL AGENTE COM COMBUST MINERAL PROD SIDERURGICO QUIMICO,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+4613300,REPRES COMAL AGENTE COM MADEIRA MATERIAL CONSTRUCAO E FERRAGENS,80,Risco de envolvimento com crime organizado e crimes ambientais
+4614100,REPRES COMAL AGENTES COM MAQ EQUIP EMBARCACOES E AERONAVES,100,ComErcio de bens de luxo ou de alto valor
+4615000,REPRES COMAL AGENTE COM ELETRODOMESTICO MOVEL ART USO DOMESTICO,10,Risco remoto de envolvimento com atividades ilIcitas
+4616800,REPRES COMAL AGENTE COM TEXTIL VESTUARIO CALCADO ART DE VIAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+4617600,"REPRES COMAL AGENTE COM DE PRODUTOS ALIMENTICIOS, BEBIDAS E FUMO",10,Risco remoto de envolvimento com atividades ilIcitas
+4618400,REPRES COMAL AGENTE COM ESPEC PRODUTO NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4618401,REPRES COMAL AGENTE COM MEDICAMENTO COSMETICO PROD PERFUMARIA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4618402,REPRES COMAL AGENTE COM INSTRU MAT ODONTO-MEDICO-HOSPITALARES,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4618403,"REPRES COMAL AGENTE COM JORNAIS, REVISTAS E OUTRAS PUBLICACOES",10,Risco remoto de envolvimento com atividades ilIcitas
+4618499,OUTROS REPRES COMAL AGENTE COM ESPECI PROD NAO ESPECI ANTERIOR,100,ComErcio de bens de luxo ou de alto valor
+4619200,REPRES COMAL AGENTE COM MERCADORIAS EM GERAL NAO ESPECIALIZADO,10,Risco remoto de envolvimento com atividades ilIcitas
+4621400,COMERCIO ATACADISTA DE CAFE EM GRAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4622200,COMERCIO ATACADISTA DE SOJA,10,Risco remoto de envolvimento com atividades ilIcitas
+4623100,COM ATAC ANIMAL VIVO ALI P/ANIMAL MAT-PRIMA AGRI EXC CAFE E SOJA,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+4623101,COMERCIO ATACADISTA DE ANIMAIS VIVOS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+4623102,COM ATAC COURO LA PELE OUTRO SUBPROD NAO-COMEST DE ORIGEM ANIMAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4623103,COMERCIO ATACADISTA DE ALGODAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4623104,COMERCIO ATACADISTA DE FUMO EM FOLHA NAO BENEFICIADO,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+4623105,COMERCIO ATACADISTA DE CACAU,10,Risco remoto de envolvimento com atividades ilIcitas
+4623106,"COMERCIO ATACADISTA DE SEMENTES, FLORES, PLANTAS E GRAMAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4623107,COMERCIO ATACADISTA DE SISAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4623108,COM ATAC MATERIA-PRIMA AGRI C/ATIV FRACIO ACONDICI ASSOCIADA,10,Risco remoto de envolvimento com atividades ilIcitas
+4623109,COMERCIO ATACADISTA DE ALIMENTOS PARA ANIMAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+4623199,COM ATAC MATERIA-PRIMA AGRICOLAS NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4631100,COMERCIO ATACADISTA DE LEITE E LATICINIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4632000,"COM ATAC CEREAL LEGUMINOSA BENEF FARINHAS, AMIDOS E FECULAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4632001,COMERCIO ATACADISTA DE CEREAIS E LEGUMINOSAS BENEFICIADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4632002,"COMERCIO ATACADISTA DE FARINHAS, AMIDOS E FECULAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4632003,COM AT CER LEG BENEF FARI AMID FECULA C/ATIV FRACI ACONDIC ASSOC,10,Risco remoto de envolvimento com atividades ilIcitas
+4633800,COMERCIO ATACADISTA DE HORTIFRUTIGRANJEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+4633801,COM ATAC FRUTA VERDURA RAIZ TUBERC HORTALICAS E LEGUMES FRESCOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4633802,COMERCIO ATACADISTA DE AVES VIVAS E OVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4633803,COM ATAC COELHO E OUTROS PEQUENOS ANIMAIS VIVOS PARA ALIMENTACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4634600,"COMERCIO ATACADISTA DE CARNES, PRODUTOS DA CARNE E PESCADO",10,Risco remoto de envolvimento com atividades ilIcitas
+4634601,COMERCIO ATACADISTA DE CARNES BOVINAS E SUINAS E DERIVADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4634602,COMERCIO ATACADISTA DE AVES ABATIDAS E DERIVADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4634603,COMERCIO ATACADISTA DE PESCADOS E FRUTOS DO MAR,10,Risco remoto de envolvimento com atividades ilIcitas
+4634699,COMERCIO ATACADISTA DE CARNES E DERIVADOS DE OUTROS ANIMAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+4635400,COMERCIO ATACADISTA DE BEBIDAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4635401,COMERCIO ATACADISTA DE AGUA MINERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4635402,"COMERCIO ATACADISTA DE CERVEJA, CHOPE E REFRIGERANTE",10,Risco remoto de envolvimento com atividades ilIcitas
+4635403,COM ATAC BEBIDAS C/ATIV DE FRACIONAMENTO ACONDICIONAMENTO ASSOCI,10,Risco remoto de envolvimento com atividades ilIcitas
+4635499,COMERCIO ATACADISTA DE BEBIDAS NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4636200,COMERCIO ATACADISTA DE PRODUTOS DO FUMO,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+4636201,COMERCIO ATACADISTA DE FUMO BENEFICIADO,70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+4636202,"COMERCIO ATACADISTA DE CIGARROS, CIGARRILHAS E CHARUTOS",70,"Risco de envolvimento com crime organizado, sonegaCAo fiscal e lavagem de dinheiro"
+4637100,COM ATAC ESPECIAL PROD ALIMENTICIOS NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4637101,"COMERCIO ATACADISTA DE CAFE TORRADO, MOIDO E SOLUVEL",10,Risco remoto de envolvimento com atividades ilIcitas
+4637102,COMERCIO ATACADISTA DE ACUCAR,10,Risco remoto de envolvimento com atividades ilIcitas
+4637103,COMERCIO ATACADISTA DE OLEOS E GORDURAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4637104,"COMERCIO ATACADISTA DE PAES, BOLOS, BISCOITOS E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+4637105,COMERCIO ATACADISTA DE MASSAS ALIMENTICIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4637106,COMERCIO ATACADISTA DE SORVETES,10,Risco remoto de envolvimento com atividades ilIcitas
+4637107,"COM ATAC DE CHOCOLATES, CONFEITOS, BALAS, BOMBONS E SEMELHANTES",10,Risco remoto de envolvimento com atividades ilIcitas
+4637199,COM ATAC ESPECIAL OUTRO PROD ALIMENT NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4639700,COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EM GERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4639701,COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EM GERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4639702,COM ATAC PROD ALIM EM GERAL C/ATIV FRACIONA ACONDICI ASSOCIADA,10,Risco remoto de envolvimento com atividades ilIcitas
+4641900,"COM ATACADISTA DE TECIDOS, ARTEFATOS DE TECIDOS E DE ARMARINHO",10,Risco remoto de envolvimento com atividades ilIcitas
+4641901,COMERCIO ATACADISTA DE TECIDOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4641902,"COMERCIO ATACADISTA DE ARTIGOS DE CAMA, MESA E BANHO",10,Risco remoto de envolvimento com atividades ilIcitas
+4641903,COMERCIO ATACADISTA DE ARTIGOS DE ARMARINHO,10,Risco remoto de envolvimento com atividades ilIcitas
+4642700,COMERCIO ATACADISTA DE ARTIGOS DO VESTUARIO E ACESSORIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4642701,COM ATAC ART VESTUARIO ACESSORIO EXC PROFISSIONAL E DE SEGURANCA,10,Risco remoto de envolvimento com atividades ilIcitas
+4642702,COM ATAC ROUPA ACESSORIO P/USO PROFISSIONAL SEGURANCA TRABALHO,10,Risco remoto de envolvimento com atividades ilIcitas
+4643500,COMERCIO ATACADISTA DE CALCADOS E ARTIGOS DE VIAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+4643501,COMERCIO ATACADISTA DE CALCADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4643502,"COMERCIO ATACADISTA DE BOLSAS, MALAS E ARTIGOS DE VIAGEM",10,Risco remoto de envolvimento com atividades ilIcitas
+4644300,COM ATAC PRODUTOS FARMACEUTICOS PARA USO HUMANO E VETERINARIO,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4644301,COMERCIO ATACADISTA DE MEDICAMENTOS E DROGAS DE USO HUMANO,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4644302,COMERCIO ATACADISTA DE MEDICAMENTOS E DROGAS DE USO VETERINARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4645100,COM ATAC INSTRUMENTO MAT P/USO MEDICO CIRUR ORTOPE ODONTOLOGICO,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4645101,COM ATAC INSTRU MAT P/USO MEDICO CIRURG HOSPITAL LABORATORIO,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4645102,COMERCIO ATACADISTA DE PROTESES E ARTIGOS DE ORTOPEDIA,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+4645103,COMERCIO ATACADISTA DE PRODUTOS ODONTOLOGICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4646000,"COM ATAC COSMETICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL",10,Risco remoto de envolvimento com atividades ilIcitas
+4646001,COMERCIO ATACADISTA DE COSMETICOS E PRODUTOS DE PERFUMARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4646002,COMERCIO ATACADISTA DE PRODUTOS DE HIGIENE PESSOAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4647800,COM ATAC ART ESCRIT PAPELARIA LIVRO JORNAL E OUTRAS PUBLICACOES,10,Risco remoto de envolvimento com atividades ilIcitas
+4647801,COMERCIO ATACADISTA DE ARTIGOS DE ESCRITORIO E DE PAPELARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4647802,"COMERCIO ATACADISTA DE LIVROS, JORNAIS E OUTRAS PUBLICACOES",10,Risco remoto de envolvimento com atividades ilIcitas
+4649400,COM ATAC EQ ART DE USO PESSOAL DOMESTICO NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4649401,COM ATAC DE EQUIPAMENTOS ELETRICOS DE USO PESSOAL E DOMESTICO,10,Risco remoto de envolvimento com atividades ilIcitas
+4649402,COM ATACADISTA APARELHOS ELETRONICOS DE USO PESSOAL E DOMESTICO,10,Risco remoto de envolvimento com atividades ilIcitas
+4649403,"COM ATAC DE BICICLETAS, TRICICLOS E OUTROS VEICULOS RECREATIVOS",10,Risco remoto de envolvimento com atividades ilIcitas
+4649404,COMERCIO ATACADISTA DE MOVEIS E ARTIGOS DE COLCHOARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4649405,COM ATACADISTA DE ARTIGOS DE TAPECARIA; PERSIANAS E CORTINAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4649406,"COMERCIO ATACADISTA DE LUSTRES, LUMINARIAS E ABAJURES",10,Risco remoto de envolvimento com atividades ilIcitas
+4649407,"COMERCIO ATACADISTA DE FILMES, CDS, DVDS, FITAS E DISCOS",10,Risco remoto de envolvimento com atividades ilIcitas
+4649408,"COM ATAC PRODUTOS DE HIGIENE, LIMPEZA E CONSERVACAO DOMICILIAR",10,Risco remoto de envolvimento com atividades ilIcitas
+4649409,COM ATAC PD HIG LIMP CONSER DOMICI C/AT FRACIONA ACONDICI ASSOC,10,Risco remoto de envolvimento com atividades ilIcitas
+4649410,COM ATAC JOIA RELOG BIJUT INCLU PEDRA PRECIOSA SEMI LAPIDADAS,100,ComErcio de bens de luxo ou de alto valor
+4649499,COM ATAC OUTROS EQUIP ART USO PESSOAL DOMEST NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4651600,"COM ATAC COMPUTADORES, PERIFERICOS E SUPRIMENTOS DE INFORMATICA",50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4651601,COMERCIO ATACADISTA DE EQUIPAMENTOS DE INFORMATICA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4651602,COMERCIO ATACADISTA DE SUPRIMENTOS PARA INFORMATICA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+4652400,COM ATAC COMPONENTES ELETRONICO EQUIP DE TELEFONIA E COMUNICACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4661300,COM ATAC MAQ APARELHO EQUIP P/USO AGROPECUARIO; PARTES E PECAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4662100,COM ATAC MAQ EQUIP P/TERRAPLENAGEM MIN CONSTRUCAO PARTE E PECA,10,Risco remoto de envolvimento com atividades ilIcitas
+4663000,COM ATAC MAQ EQUIPAMENTOS PARA USO INDUSTRIAL; PARTES E PECAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4664800,COM ATAC MAQ APAR EQUIP P/USO ODONTO-MED-HOSPITALAR PARTE PECA,10,Risco remoto de envolvimento com atividades ilIcitas
+4665600,COM ATAC MAQ E EQUIPAMENTOS PARA USO COMERCIAL; PARTES E PECAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4669900,COM ATAC MAQ APAR EQUIP NAO ESPECI ANTERIORMENTE; PARTES E PECAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4669901,COMERCIO ATACADISTA DE BOMBAS E COMPRESSORES; PARTES E PECAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4669999,COM ATAC OUTRAS MAQ EQUIP NAO ESPECI ANTERIOR; PARTES E PECAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4671100,COMERCIO ATACADISTA DE MADEIRA E PRODUTOS DERIVADOS,80,Risco de envolvimento com crime organizado e crimes ambientais
+4672900,COMERCIO ATACADISTA DE FERRAGENS E FERRAMENTAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4673700,COMERCIO ATACADISTA DE MATERIAL ELETRICO,10,Risco remoto de envolvimento com atividades ilIcitas
+4674500,COMERCIO ATACADISTA DE CIMENTO,10,Risco remoto de envolvimento com atividades ilIcitas
+4679600,COM ATAC ESPECI MAT CONSTR NAO ESPECI ANTERIOR MAT CONSTR GERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4679601,"COMERCIO ATACADISTA DE TINTAS, VERNIZES E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+4679602,COMERCIO ATACADISTA DE MARMORES E GRANITOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4679603,"COMERCIO ATACADISTA DE VIDROS, ESPELHOS E VITRAIS",10,Risco remoto de envolvimento com atividades ilIcitas
+4679604,COM ATAC ESPECI MAT CONSTRUCAO NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4679699,COMERCIO ATACADISTA DE MATERIAIS DE CONSTRUCAO EM GERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4681800,COM ATAC COMBUSTIVEL SOLIDO LIQUIDO GASOSO EXC GAS NATURAL GLP,80,"Risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4681801,COM ATAC COMBUSTIVEL REALIZADO P/TRANSP NAO RETALHISTA (TRR),80,"Risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4681802,COM ATAC COMBUSTIVEL REALIZADO POR TRANSPORTADOR RETALHISTA(TRR),80,"Risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4681803,"COM ATAC COMBUSTIVEL DE ORIGEM VEGETAL, EXCETO ALCOOL CARBURANTE",80,"Risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4681804,COMERCIO ATACADISTA DE COMBUSTIVEIS DE ORIGEM MINERAL EM BRUTO,80,"Risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4681805,COMERCIO ATACADISTA DE LUBRIFICANTES,80,"Risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4682600,COMERCIO ATACADISTA DE GAS LIQUEFEITO DE PETROLEO (GLP),80,"Risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4683400,COM ATAC DEFENSIVOS AGRIC ADUBO FERTILIZANTE E CORRETIVO DO SOLO,10,Risco remoto de envolvimento com atividades ilIcitas
+4684200,"COM ATAC PRODUTOS QUIMICOS E PETROQUIMICOS, EXCETO AGROQUIMICOS",10,Risco remoto de envolvimento com atividades ilIcitas
+4684201,COMERCIO ATACADISTA DE RESINAS E ELASTOMEROS,10,Risco remoto de envolvimento com atividades ilIcitas
+4684202,COMERCIO ATACADISTA DE SOLVENTES,10,Risco remoto de envolvimento com atividades ilIcitas
+4684299,COM ATAC OUTROS PRODUTOS QUIM PETROQUIM NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4685100,"COM ATAC PROD SIDERURGICO E METALURGICO, EXCETO PARA CONSTRUCAO",10,Risco remoto de envolvimento com atividades ilIcitas
+4686900,COMERCIO ATACADISTA DE PAPEL E PAPELAO EM BRUTO E DE EMBALAGENS,10,Risco remoto de envolvimento com atividades ilIcitas
+4686901,COMERCIO ATACADISTA DE PAPEL E PAPELAO EM BRUTO,10,Risco remoto de envolvimento com atividades ilIcitas
+4686902,COMERCIO ATACADISTA DE EMBALAGENS,10,Risco remoto de envolvimento com atividades ilIcitas
+4687700,COMERCIO ATACADISTA DE RESIDUOS E SUCATAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4687701,COMERCIO ATACADISTA DE RESIDUOS DE PAPEL E PAPELAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4687702,COM ATAC RESIDUO SUCATA NAO-METALICO EXC DE PAPEL E PAPELAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4687703,COMERCIO ATACADISTA DE RESIDUOS E SUCATAS METALICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4689300,COM ATAC ESPECI OUTROS PROD INTERMEDI NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4689301,"COM ATAC PRODUTOS DA EXTRACAO MINERAL, EXCETO COMBUSTIVEIS",10,Risco remoto de envolvimento com atividades ilIcitas
+4689302,COMERCIO ATACADISTA DE FIOS E FIBRAS TEXTEIS BENEFICIADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4689399,COM ATAC ESPECI OUTROS PROD INTERMEDI NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4691500,COM ATAC MERC EM GERAL COM PREDOMINANCIA DE PRODUTO ALIMENTICIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4692300,COM ATAC MERC EM GERAL COM PREDOMINANCIA DE INSUMO AGROPECUARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4693100,COM ATAC MERC GERAL SEM PREDOMINANCIA DE ALIM OU INSUMO AGROPEC,10,Risco remoto de envolvimento com atividades ilIcitas
+4711300,COM VAREJ MERC GERAL C/PREDOM PROD ALIM - HIPER SUPERMERCADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4711301,COM VAREJ MERC GERAL C/PREDOM PROD ALIM - HIPERMERCADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4711302,COM VAREJ MERC GERAL C/PREDOM PROD ALIM - SUPERMERCADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4712100,COM VAREJ MERC GERAL C/PREDOM PD ALIM - MINIMERC MERCAR ARMAZEM,10,Risco remoto de envolvimento com atividades ilIcitas
+4713000,"COM VAREJ MERC GERAL, SEM PREDOMINANCIA DE PRODUTOS ALIMENTICIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+4713001,LOJAS DE DEPARTAMENTOS OU MAGAZINES,10,Risco remoto de envolvimento com atividades ilIcitas
+4713002,"LOJAS DE VARIEDADES, EXCETO LOJAS DE DEPARTAMENTOS OU MAGAZINES",10,Risco remoto de envolvimento com atividades ilIcitas
+4713003,LOJAS DUTY FREE DE AEROPORTOS INTERNACIONAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+4721100,"COM VAREJ PROD PADARIA, LATICINIO, DOCES, BALAS E SEMELHANTES",10,Risco remoto de envolvimento com atividades ilIcitas
+4721101,PADARIA E CONFEITARIA COM PREDOMINANCIA DE PRODUCAO PROPRIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4721102,PADARIA E CONFEITARIA COM PREDOMINANCIA DE REVENDA,10,Risco remoto de envolvimento com atividades ilIcitas
+4721103,COMERCIO VAREJISTA DE LATICINIOS E FRIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4721104,"COMERCIO VAREJISTA DE DOCES, BALAS, BOMBONS E SEMELHANTES",10,Risco remoto de envolvimento com atividades ilIcitas
+4722900,COMERCIO VAREJISTA DE CARNES E PESCADOS - ACOUGUES E PEIXARIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4722901,COMERCIO VAREJISTA DE CARNES - ACOUGUES,10,Risco remoto de envolvimento com atividades ilIcitas
+4722902,PEIXARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4723700,COMERCIO VAREJISTA DE BEBIDAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4724500,COMERCIO VAREJISTA DE HORTIFRUTIGRANJEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+4729600,COM VAREJ PD ALIM GRAL OU ESP PD ALIM NAO ESPEC ANTERIO; PD FUMO,10,Risco remoto de envolvimento com atividades ilIcitas
+4729601,TABACARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4729602,COMERCIO VAREJISTA DE MERCADORIAS EM LOJAS DE CONVENIENCIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4729699,COM VAREJ PD ALIM EM GERAL OU ESPEC PD ALIM NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4731800,COMERCIO VAREJISTA DE COMBUSTIVEIS PARA VEICULOS AUTOMOTORES,100,"Alto risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4732600,COMERCIO VAREJISTA DE LUBRIFICANTES,10,Risco remoto de envolvimento com atividades ilIcitas
+4741500,COMERCIO VAREJISTA DE TINTAS E MATERIAIS PARA PINTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+4742300,COMERCIO VAREJISTA DE MATERIAL ELETRICO,10,Risco remoto de envolvimento com atividades ilIcitas
+4743100,COMERCIO VAREJISTA DE VIDROS,10,Risco remoto de envolvimento com atividades ilIcitas
+4744000,"COM VAREJISTA DE FERRAGENS, MADEIRA E MATERIAIS DE CONSTRUCAO",10,Risco remoto de envolvimento com atividades ilIcitas
+4744001,COMERCIO VAREJISTA DE FERRAGENS E FERRAMENTAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4744002,COMERCIO VAREJISTA DE MADEIRA E ARTEFATOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4744003,COMERCIO VAREJISTA DE MATERIAIS HIDRAULICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4744004,"COM VAREJISTA DE CAL, AREIA, PEDRA BRITADA, TIJOLOS E TELHAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4744005,COM VAREJISTA DE MATERIAIS DE CONSTRUCAO NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4744006,COMERCIO VAREJISTA DE PEDRAS PARA REVESTIMENTO,10,Risco remoto de envolvimento com atividades ilIcitas
+4744099,COMERCIO VAREJISTA DE MATERIAIS DE CONSTRUCAO EM GERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4751200,COM VAREJISTA ESPECIALIZADO EQUIP SUPRIMENTOS DE INFORMATICA,10,Risco remoto de envolvimento com atividades ilIcitas
+4751201,COMERCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS E SUPRIMENTOS DE IN,10,Risco remoto de envolvimento com atividades ilIcitas
+4752100,COM VAREJISTA ESPECIALIZADO EQUIP DE TELEFONIA E COMUNICACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4753900,COM VAREJISTA ESPECI ELETRODOMESTICOS E EQUIP DE AUDIO E VIDEO,10,Risco remoto de envolvimento com atividades ilIcitas
+4754700,"COM VAREJISTA ESPECI MOVEIS, COLCHOARIA E ARTIGOS DE ILUMINACAO",10,Risco remoto de envolvimento com atividades ilIcitas
+4754701,COMERCIO VAREJISTA DE MOVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+4754702,COMERCIO VAREJISTA DE ARTIGOS DE COLCHOARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4754703,COMERCIO VAREJISTA DE ARTIGOS DE ILUMINACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4755500,"COM VAREJISTA ESPECI DE TECIDOS E ARTIGOS DE CAMA, MESA E BANHO",10,Risco remoto de envolvimento com atividades ilIcitas
+4755501,COMERCIO VAREJISTA DE TECIDOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4755502,COMERCIO VAREJISTA DE ARTIGOS DE ARMARINHO,10,Risco remoto de envolvimento com atividades ilIcitas
+4755503,"COMERCIO VAREJISTA DE ARTIGOS DE CAMA, MESA E BANHO",10,Risco remoto de envolvimento com atividades ilIcitas
+4756300,COM VAREJISTA ESPECIALIZADO DE INSTRUMENTOS MUSICAIS E ACESSORIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4757100,COM VJ ESPECI PECA ACESS AP ELETROTRON P/USO DOMES EX INFO COMU,10,Risco remoto de envolvimento com atividades ilIcitas
+4759800,COM VAREJISTA ART USO DOMESTICO NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4759801,"COMERCIO VAREJISTA DE ARTIGOS DE TAPECARIA, CORTINAS E PERSIANAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4759899,COM VAREJISTA OUTROS ARTIGOS USO DOMESTICO NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+4761000,"COMERCIO VAREJISTA DE LIVROS, JORNAIS, REVISTAS E PAPELARIA",10,Risco remoto de envolvimento com atividades ilIcitas
+4761001,COMERCIO VAREJISTA DE LIVROS,10,Risco remoto de envolvimento com atividades ilIcitas
+4761002,COMERCIO VAREJISTA DE JORNAIS E REVISTAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4761003,COMERCIO VAREJISTA DE ARTIGOS DE PAPELARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+4762800,"COMERCIO VAREJISTA DE DISCOS, CDS, DVDS E FITAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4763600,COMERCIO VAREJISTA DE ARTIGOS RECREATIVOS E ESPORTIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4763601,COMERCIO VAREJISTA DE BRINQUEDOS E ARTIGOS RECREATIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4763602,COMERCIO VAREJISTA DE ARTIGOS ESPORTIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4763603,COMERCIO VAREJISTA DE BICICLETAS E TRICICLOS; PECAS E ACESSORIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4763604,"COMERCIO VAREJISTA DE ARTIGOS DE CACA, PESCA E CAMPING",10,Risco remoto de envolvimento com atividades ilIcitas
+4763605,COM VAREJ EMBARCACAO OUTROS VEICULOS RECREATIVOS; PECA ACESSORIO,100,ComErcio de bens de luxo ou de alto valor
+4771700,COM VAREJ PRODUTOS FARMACEUTICOS PARA USO HUMANO E VETERINARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4771701,"COM VAREJ DE PRODUTOS FARMACEUTICOS, SEM MANIPULACAO DE FORMULAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4771702,"COM VAREJ DE PRODUTOS FARMACEUTICOS, COM MANIPULACAO DE FORMULAS",10,Risco remoto de envolvimento com atividades ilIcitas
+4771703,COMERCIO VAREJISTA DE PRODUTOS FARMACEUTICOS HOMEOPATICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4771704,COMERCIO VAREJISTA DE MEDICAMENTOS VETERINARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4772500,"COM VAREJ COSMETICOS, PRODUTOS DE PERFUMARIA E HIGIENE PESSOAL",10,Risco remoto de envolvimento com atividades ilIcitas
+4773300,COMERCIO VAREJISTA DE ARTIGOS MEDICOS E ORTOPEDICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4774100,COMERCIO VAREJISTA DE ARTIGOS DE OPTICA,10,Risco remoto de envolvimento com atividades ilIcitas
+4781400,COMERCIO VAREJISTA DE ARTIGOS DO VESTUARIO E ACESSORIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4782200,COMERCIO VAREJISTA DE CALCADOS E ARTIGOS DE VIAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+4782201,COMERCIO VAREJISTA DE CALCADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4782202,COMERCIO VAREJISTA DE ARTIGOS DE VIAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+4783100,COMERCIO VAREJISTA DE JOIAS E RELOGIOS,100,ComErcio de bens de luxo ou de alto valor
+4783101,COMERCIO VAREJISTA DE ARTIGOS DE JOALHERIA,100,ComErcio de bens de luxo ou de alto valor
+4783102,COMERCIO VAREJISTA DE ARTIGOS DE RELOJOARIA,100,ComErcio de bens de luxo ou de alto valor
+4784900,COMERCIO VAREJISTA DE GAS LIQUEFEITO DE PETROLEO (GLP),100,"Alto risco de envolvimento com crime organizado, corrupCAo e lavagem de dinheiro"
+4785700,COMERCIO VAREJISTA DE ARTIGOS USADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4785701,COMERCIO VAREJISTA DE ANTIGUIDADES,100,ComErcio de bens de luxo ou de alto valor
+4785799,COMERCIO VAREJISTA DE OUTROS ARTIGOS USADOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4789000,COM VAREJ OUTROS PRODUTOS NOVOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4789001,"COMERCIO VAREJISTA DE SUVENIRES, BIJUTERIAS E ARTESANATOS",10,Risco remoto de envolvimento com atividades ilIcitas
+4789002,COMERCIO VAREJISTA DE PLANTAS E FLORES NATURAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+4789003,COMERCIO VAREJISTA DE OBJETOS DE ARTE,100,ComErcio de bens de luxo ou de alto valor
+4789004,COM VAREJ ANIMAL VIVO E ARTIGO E ALIMENTO P/ANIMAL DE ESTIMACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+4789005,COMERCIO VAREJISTA DE PRODUTOS SANEANTES DOMISSANITARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4789006,COMERCIO VAREJISTA DE FOGOS DE ARTIFICIO E ARTIGOS PIROTECNICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+4789007,COMERCIO VAREJISTA DE EQUIPAMENTOS PARA ESCRITORIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4789008,COMERCIO VAREJISTA DE ARTIGOS FOTOGRAFICOS E PARA FILMAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+4789009,COMERCIO VAREJISTA DE ARMAS E MUNICOES,100,Diretriz Bacen
+4789099,COM VAREJ DE OUTROS PRODUTOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+4790300,COMERCIO AMBULANTE E OUTROS TIPOS DE COMERCIO VAREJISTA,50,"Risco de envolvimento com contrabando, falsificaCAo e pirataria de produtos e sonegaCAo fiscal"
+4911600,TRANSPORTE FERROVIARIO DE CARGA,10,Risco remoto de envolvimento com atividades ilIcitas
+4912400,TRANSPORTE METROFERROVIARIO DE PASSAGEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+4912401,TRANSPORTE FERROVIARIO PASSAGEIRO INTERMUNICIPAL E INTERESTADUAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4912402,TRANSP FERROVIARIO PASSAGEIROS MUNICIPAL E REGIAO METROPOLITANA,10,Risco remoto de envolvimento com atividades ilIcitas
+4912403,TRANSPORTE METROVIARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4921300,TRANSP RODOV COL PASSAG C/ITINERARIO FXO MUN E RG METROPOLITANA,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4921301,"TRANSP RODOV COL PASSAG C/ITINERARIO FIXO, MUNICIPAL",100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4921302,TRANSP RODOV COL PASSAG C/ITINERARIO FXO INTERMUN RG METROPOLITA,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4922100,TRANSP RODOV COL PASSAG C/ITINERARIO FXO INTER-MUN-EST-NACIONAL,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4922101,TRANSP RODOV COL PASSAG C/ITINERARIO FXO INTERMUN EXC RG METROPO,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4922102,TRANSP RODOV COL PASSAG C/ITINERARIO FIXO INTERESTADUAL,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4922103,TRANSP RODOV COL PASSAG C/ITINERARIO FIXO INTERNACIONAL,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4923000,TRANSPORTE RODOVIARIO DE TAXI,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+4923001,SERVICO DE TAXI,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+4923002,SERVICO TRANSPORTE PASSAGEIROS LOCACAO DE AUTOMOVEL C/MOTORISTA,10,Risco remoto de envolvimento com atividades ilIcitas
+4924800,TRANSPORTE ESCOLAR,10,Risco remoto de envolvimento com atividades ilIcitas
+4929900,TRANSP ROD COL PASS SB REG FRETE E TPT ROD NAO ESPECI ANTERIOR,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4929901,"TRANSP ROD COL PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL",100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4929902,TRANSP ROD COL PASS SB REG FRETE INTER-MUN-EST-NACIONAL,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4929903,"ORGANIZACAO EXCURSAO EM VEICULOS RODOVIARIOS PROPRIOS, MUNICIPAL",10,Risco remoto de envolvimento com atividades ilIcitas
+4929904,ORGANIZACAO EXCURSAO EM VEIC ROD PROPRIO INTER-MUN-EST-NACIONAL,10,Risco remoto de envolvimento com atividades ilIcitas
+4929999,OUTROS TRANSP RODOVIARIOS DE PASSAGEIROS NAO ESPECI ANTERIOR,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+4930200,TRANSPORTE RODOVIARIO DE CARGA,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+4930201,"TRANSP ROD CARGA EXCETO PRODUTOS PERIGOSOS E MUDANCAS, MUNICIPAL",100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+4930202,TRANSP ROD CARGA EXC PROD PERIG MUDANCA INTER-MUN-EST-NACIONAL,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+4930203,TRANSPORTE RODOVIARIO DE PRODUTOS PERIGOSOS,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+4930204,TRANSPORTE RODOVIARIO DE MUDANCAS,10,Risco remoto de envolvimento com atividades ilIcitas
+4940000,TRANSPORTE DUTOVIARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+4950700,"TRENS TURISTICOS, TELEFERICOS E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+5011400,TRANSPORTE MARITIMO DE CABOTAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+5011401,TRANSPORTE MARITIMO DE CABOTAGEM - CARGA,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5011402,TRANSPORTE MARITIMO DE CABOTAGEM - PASSAGEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+5012200,TRANSPORTE MARITIMO DE LONGO CURSO,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5012201,TRANSPORTE MARITIMO DE LONGO CURSO - CARGA,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5012202,TRANSPORTE MARITIMO DE LONGO CURSO - PASSAGEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+5021100,TRANSPORTE POR NAVEGACAO INTERIOR DE CARGA,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5021101,TRANSPORTE POR NAVEGACAO INTERIOR DE CARGA MUN EXCETO TRAVESSIA,10,Risco remoto de envolvimento com atividades ilIcitas
+5021102,TRANSP NAV INTERIOR CARGA INTER-MUN-EST-NACIONAL EXC TRAVESSIA,10,Risco remoto de envolvimento com atividades ilIcitas
+5022000,TRANSPORTE NAVEGACAO INTERIOR DE PASSAGEIROS EM LINHAS REGULARES,10,Risco remoto de envolvimento com atividades ilIcitas
+5022001,TRANSP NAV INTERIOR PASS LINHA REGULAR MUNICIPAL EXC TRAVESSIA,10,Risco remoto de envolvimento com atividades ilIcitas
+5022002,TRANSP NAV INTERIOR PAS LNHA REG INTER-MUN-EST-NACIONAL EX TRVES,10,Risco remoto de envolvimento com atividades ilIcitas
+5030100,NAVEGACAO DE APOIO,10,Risco remoto de envolvimento com atividades ilIcitas
+5030101,NAVEGACAO DE APOIO MARITIMO,10,Risco remoto de envolvimento com atividades ilIcitas
+5030102,NAVEGACAO DE APOIO PORTUARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+5091200,TRANSPORTE POR NAVEGACAO DE TRAVESSIA,10,Risco remoto de envolvimento com atividades ilIcitas
+5091201,"TRANSPORTE POR NAVEGACAO DE TRAVESSIA, MUNICIPAL",10,Risco remoto de envolvimento com atividades ilIcitas
+5091202,"TRANSPORTE POR NAVEGACAO DE TRAVESSIA, INTERMUNICIPAL",10,Risco remoto de envolvimento com atividades ilIcitas
+5099800,TRANSPORTES AQUAVIARIOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+5099801,TRANSPORTE AQUAVIARIO PARA PASSEIOS TURISTICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5099899,OUTROS TRANSPORTES AQUAVIARIOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+5111100,TRANSPORTE AEREO DE PASSAGEIROS REGULAR,10,Risco remoto de envolvimento com atividades ilIcitas
+5112900,TRANSPORTE AEREO DE PASSAGEIROS NAO-REGULAR,10,Risco remoto de envolvimento com atividades ilIcitas
+5112901,SERVICO DE TAXI AEREO E LOCACAO DE AERONAVES COM TRIPULACAO,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+5112999,OUTROS SERVICOS DE TRANSPORTE AEREO DE PASSAGEIROS NAO-REGULAR,100,"Alto risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+5120000,TRANSPORTE AEREO DE CARGA,10,Risco remoto de envolvimento com atividades ilIcitas
+5130700,TRANSPORTE ESPACIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+5211700,ARMAZENAMENTO,10,Risco remoto de envolvimento com atividades ilIcitas
+5211701,ARMAZENS GERAIS - EMISSAO DE WARRANT,10,Risco remoto de envolvimento com atividades ilIcitas
+5211702,GUARDA-MOVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+5211799,DEPOSITO MERCADORIA P/TERCEIRO EXC ARMAZEM GERAL GUARDA-MOVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+5212500,CARGA E DESCARGA,10,Risco remoto de envolvimento com atividades ilIcitas
+5221400,"CONCESSIONARIAS RODOVIAS, PONTES, TUNEIS E SERVICOS RELACIONADOS",10,Risco remoto de envolvimento com atividades ilIcitas
+5222200,TERMINAIS RODOVIARIOS E FERROVIARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5223100,ESTACIONAMENTO DE VEICULOS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5229000,ATIVIDADES AUX TRANSPORTE TERRESTRE NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+5229001,SERVICOS APOIO TRANSPORTE POR TAXI INCLUSIVE CENTRAIS DE CHAMADA,10,Risco remoto de envolvimento com atividades ilIcitas
+5229002,SERVICOS DE REBOQUE DE VEICULOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5229099,OUTRAS ATIV AUXILIARES DOS TRANSPORTES TERRESTRES NAO ESPECI ANTE,10,Risco remoto de envolvimento com atividades ilIcitas
+5231100,GESTAO DE PORTOS E TERMINAIS,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5231101,ADMINISTRACAO DA INFRA-ESTRUTURA PORTUARIA,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5231102,OPERACOES DE TERMINAIS,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5232000,ATIVIDADES DE AGENCIAMENTO MARITIMO,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5239700,ATIVIDADES AUX DOS TRANSPORTES AQUAVIARIOS NAO ESPECI ANTERIOR,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5240100,ATIVIDADES AUXILIARES DOS TRANSPORTES AEREOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5240101,OPERACAO DOS AEROPORTOS E CAMPOS DE ATERRISSAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+5240199,ATIV AUX TRANSPORTE AEREO EXC OPER AEROPORTO CAMPO ATERRISSAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+5250800,ATIVIDADES RELACIONADAS A ORGANIZACAO DO TRANSPORTE DE CARGA,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5250801,COMISSARIA DE DESPACHOS,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5250802,ATIVIDADES DE DESPACHANTES ADUANEIROS,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5250803,"AGENCIAMENTO DE CARGAS, EXCETO PARA O TRANSPORTE MARITIMO",100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5250804,ORGANIZACAO LOGISTICA DO TRANSPORTE DE CARGA,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5250805,OPERADOR DE TRANSPORTE MULTIMODAL - OTM,100,"Melhores prAticas de mercado (trAfico de drogas, trAfico de armas e muniCOes e contrabando)"
+5310500,ATIVIDADES DE CORREIO,10,Risco remoto de envolvimento com atividades ilIcitas
+5310501,ATIVIDADES DO CORREIO NACIONAL,10,Risco remoto de envolvimento com atividades ilIcitas
+5310502,ATIVIDADES DE FRANQUEADAS E PERMISSIONARIAS DO CORREIO NACIONAL,10,Risco remoto de envolvimento com atividades ilIcitas
+5320200,ATIVIDADES DE MALOTE E DE ENTREGA,10,Risco remoto de envolvimento com atividades ilIcitas
+5320201,SERVICOS DE MALOTE NAO REALIZADOS PELO CORREIO NACIONAL,10,Risco remoto de envolvimento com atividades ilIcitas
+5320202,SERVICOS DE ENTREGA RAPIDA,10,Risco remoto de envolvimento com atividades ilIcitas
+5510800,HOTEIS E SIMILARES,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5510801,HOTEIS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5510802,APART-HOTEIS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5510803,MOTEIS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5590600,OUTROS TIPOS DE ALOJAMENTO NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+5590601,"ALBERGUES, EXCETO ASSISTENCIAIS",10,Risco remoto de envolvimento com atividades ilIcitas
+5590602,CAMPINGS,10,Risco remoto de envolvimento com atividades ilIcitas
+5590603,PENSOES (ALOJAMENTO),10,Risco remoto de envolvimento com atividades ilIcitas
+5590699,OUTROS ALOJAMENTOS NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+5611200,RESTAURANTE OUTRO ESTABELECIMENTO SERVICO ALIMENTACAO E BEBIDAS,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5611201,RESTAURANTES E SIMILARES,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5611202,BARES E OUTROS ESTABELECIMENTOS ESPECIALIZADOS EM SERVIR BEBIDAS,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5611203,"LANCHONETES, CASAS DE CHA, DE SUCOS E SIMILARES",70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+5612100,SERVICOS AMBULANTES DE ALIMENTACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+5620100,"SERVICOS DE CATERING, BUFE E OUTROS SERVICOS DE COMIDA PREPARADA",10,Risco remoto de envolvimento com atividades ilIcitas
+5620101,FORNECIMENTO ALIMENTO PREPARADO PREPONDERANTEMENTE PARA EMPRESAS,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+5620102,SERVICOS DE ALIMENTACAO PARA EVENTOS E RECEPCOES - BUFE,10,Risco remoto de envolvimento com atividades ilIcitas
+5620103,CANTINAS - SERVICOS DE ALIMENTACAO PRIVATIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5620104,FORNECIMENTO ALIMENTO PREPARADO PREPONDERANTE P/CONS DOMICILIAR,10,Risco remoto de envolvimento com atividades ilIcitas
+5811500,EDICAO DE LIVROS,10,Risco remoto de envolvimento com atividades ilIcitas
+5812300,EDICAO DE JORNAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+5812301,EDICAO DE JORNAIS DIARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5812302,EDICAO DE JORNAIS NAO DIARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5813100,EDICAO DE REVISTAS,10,Risco remoto de envolvimento com atividades ilIcitas
+5819100,"EDICAO DE CADASTROS, LISTAS E OUTROS PRODUTOS GRAFICOS",10,Risco remoto de envolvimento com atividades ilIcitas
+5821200,EDICAO INTEGRADA A IMPRESSAO DE LIVROS,10,Risco remoto de envolvimento com atividades ilIcitas
+5822100,EDICAO INTEGRADA A IMPRESSAO DE JORNAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+5822101,EDICAO INTEGRADA À IMPRESSAO DE JORNAIS DIARIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5823900,EDICAO INTEGRADA A IMPRESSAO DE REVISTAS,10,Risco remoto de envolvimento com atividades ilIcitas
+5829800,EDICAO INTEGRADA IMPRESSAO CADASTRO LISTA OUTRO PRODUTO GRAFICO,10,Risco remoto de envolvimento com atividades ilIcitas
+5911100,ATIV PROD CINEMATOGRAFICA DE VIDEOS E DE PROGRAMAS DE TELEVISAO,10,Risco remoto de envolvimento com atividades ilIcitas
+5911101,ESTUDIOS CINEMATOGRAFICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+5911102,PRODUCAO DE FILMES PARA PUBLICIDADE,100,Diretriz Bacen
+5911199,ATIV PD CINEMATOGRAFICA VIDEO PROG TELEVISAO NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+5912000,ATIVIDADE DE  POS-PRODUCAO CINEMATOGRAFICA VIDEO PROG TELEVISAO,10,Risco remoto de envolvimento com atividades ilIcitas
+5912001,SERVICOS DE DUBLAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+5912002,SERVICOS DE MIXAGEM SONORA EM PRODUCAO AUDIOVISUAL,10,Risco remoto de envolvimento com atividades ilIcitas
+5912099,ATIV POS-PROD CINEMATOG VIDEO PROG TELEVISAO NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+5913800,DISTRIBUICAO CINEMATOGRAFICA DE VIDEO E DE PROGRAMA DE TELEVISAO,10,Risco remoto de envolvimento com atividades ilIcitas
+5914600,ATIVIDADES DE EXIBICAO CINEMATOGRAFICA,10,Risco remoto de envolvimento com atividades ilIcitas
+5920100,ATIVIDADES DE GRAVACAO DE SOM E DE EDICAO DE MUSICA,10,Risco remoto de envolvimento com atividades ilIcitas
+6010100,ATIVIDADES DE RADIO,10,Risco remoto de envolvimento com atividades ilIcitas
+6021700,ATIVIDADES DE TELEVISAO ABERTA,10,Risco remoto de envolvimento com atividades ilIcitas
+6022500,PROGRAMADORA E ATIVIDADE RELACIONADA A TELEVISAO POR ASSINATURA,10,Risco remoto de envolvimento com atividades ilIcitas
+6022501,PROGRAMADORAS,10,Risco remoto de envolvimento com atividades ilIcitas
+6022502,ATIV RELACIONADA A TELEVISAO POR ASSINATURA EXCETO PROGRAMADORAS,10,Risco remoto de envolvimento com atividades ilIcitas
+6110800,TELECOMUNICACOES POR FIO,10,Risco remoto de envolvimento com atividades ilIcitas
+6110801,SERVICOS DE TELEFONIA FIXA COMUTADA - STFC,10,Risco remoto de envolvimento com atividades ilIcitas
+6110802,SERVICOS DE REDES DE TRANSPORTE DE TELECOMUNICACOES - SRTT,10,Risco remoto de envolvimento com atividades ilIcitas
+6110803,SERVICOS DE COMUNICACAO MULTIMIDIA - SCM,10,Risco remoto de envolvimento com atividades ilIcitas
+6110899,SERVICO TELECOMUNICACOES POR FIO NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+6120500,TELECOMUNICACOES SEM FIO,10,Risco remoto de envolvimento com atividades ilIcitas
+6120501,TELEFONIA MOVEL CELULAR,10,Risco remoto de envolvimento com atividades ilIcitas
+6120502,SERVICO MOVEL ESPECIALIZADO - SME,10,Risco remoto de envolvimento com atividades ilIcitas
+6120599,SERVICO TELECOMUNICACAO SEM FIO NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+6130200,TELECOMUNICACOES POR SATELITE,10,Risco remoto de envolvimento com atividades ilIcitas
+6141800,OPERADORAS DE TELEVISAO POR ASSINATURA POR CABO,10,Risco remoto de envolvimento com atividades ilIcitas
+6142600,OPERADORAS DE TELEVISAO POR ASSINATURA POR MICROONDAS,10,Risco remoto de envolvimento com atividades ilIcitas
+6143400,OPERADORAS DE TELEVISAO POR ASSINATURA POR SATELITE,10,Risco remoto de envolvimento com atividades ilIcitas
+6190600,OUTRAS ATIVIDADES DE TELECOMUNICACOES,10,Risco remoto de envolvimento com atividades ilIcitas
+6190601,PROVEDORES DE ACESSO AS REDES DE COMUNICACOES,10,Risco remoto de envolvimento com atividades ilIcitas
+6190602,PROVEDORES DE VOZ SOBRE PROTOCOLO INTERNET - VOIP,10,Risco remoto de envolvimento com atividades ilIcitas
+6190699,OUTRAS ATIV DE TELECOMUNICACOES NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+6201500,DESENVOLVIMENTO DE PROGRAMAS DE COMPUTADOR SOB ENCOMENDA,10,Risco remoto de envolvimento com atividades ilIcitas
+6202300,DESENVOLVIMENTO LICENCIAMENTO PROG DE COMPUTADOR CUSTOMIZAVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+6203100,DESENVOLVIMENTO LICENCIAMENTO PROG COMPUTADOR NAO-CUSTOMIZAVEIS,10,Risco remoto de envolvimento com atividades ilIcitas
+6204000,CONSULTORIA EM TECNOLOGIA DA INFORMACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+6209100,SUPORTE TECNICO MANUTENCAO E OUTRO SERVICO TECNOLOGIA DA INFORMA,10,Risco remoto de envolvimento com atividades ilIcitas
+6311900,TRATAMENTO DADOS PROVEDORE SERVICO APLICACAO SERV HOSP INTERNET,10,Risco remoto de envolvimento com atividades ilIcitas
+6319400,PORTAL PROVEDORE CONTEUDO OUTROS SERVICOS INFORMACAO NA INTERNET,10,Risco remoto de envolvimento com atividades ilIcitas
+6391700,AGENCIAS DE NOTICIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+6399200,OUTRAS ATIVIDADES PRESTACAO SERV INFORMACAO NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+6424703,COOPERATIVAS DE CREDITO MUTUO,10,Risco remoto de envolvimento com atividades ilIcitas
+6424704,COOPERATIVAS DE CREDITO RURAL,10,Risco remoto de envolvimento com atividades ilIcitas
+6436100,"SOCIEDADES DE CREDITO, FINANCIAMENTO E INVESTIMENTO - FINANCEIRAS",10,Risco remoto de envolvimento com atividades ilIcitas
+6462000,HOLDINGS DE INSTITUICOES NAO-FINANCEIRAS,50,Impossibilidade de mensuraCAo do faturamento mensal
+6463800,"OUTRAS SOCIEDADES DE PARTICIPACAO, EXCETO HOLDINGS",50,Impossibilidade de mensuraCAo do faturamento mensal
+6491300,FACTORING,100,Diretriz Bacen
+6493000,ADMINISTRACAO DE CONSORCIOS PARA AQUISICAO DE BENS E DIREITOS,10,Risco remoto de envolvimento com atividades ilIcitas
+6499903,FUNDO GARANTIDOR DE CREDITO,10,Risco remoto de envolvimento com atividades ilIcitas
+6499905,CONCESSAO DE CREDITO PELAS OSCIP,70,Risco de corrupCAo
+6499999,OUTRAS ATIVIDADES DE SERVICOS FINANCEIROS NAO ESPECIFICADAS ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+6511100,SEGUROS DE VIDA,10,Risco remoto de envolvimento com atividades ilIcitas
+6511101,SEGUROS DE VIDA,10,Risco remoto de envolvimento com atividades ilIcitas
+6511102,PLANOS DE AUXILIO-FUNERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+6512000,SEGUROS NAO-VIDA,10,Risco remoto de envolvimento com atividades ilIcitas
+6520100,SEGUROS-SAUDE,10,Risco remoto de envolvimento com atividades ilIcitas
+6530800,RESSEGUROS,10,Risco remoto de envolvimento com atividades ilIcitas
+6541300,PREVIDENCIA COMPLEMENTAR FECHADA,10,Risco remoto de envolvimento com atividades ilIcitas
+6542100,PREVIDENCIA COMPLEMENTAR ABERTA,10,Risco remoto de envolvimento com atividades ilIcitas
+6550200,PLANOS DE SAUDE,10,Risco remoto de envolvimento com atividades ilIcitas
+6619399,OUTRAS ATIVIDADES AUXILIARES DOS SERVICOS FINANCEIROS NAO ESPECIFICA,10,Risco remoto de envolvimento com atividades ilIcitas
+6621500,AVALIACAO DE RISCOS E PERDAS,10,Risco remoto de envolvimento com atividades ilIcitas
+6621501,PERITOS E AVALIADORES DE SEGUROS,10,Risco remoto de envolvimento com atividades ilIcitas
+6621502,AUDITORIA E CONSULTORIA ATUARIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+6622300,CORRETORE AGENTE SEGURO PLANO PREVIDENCIA COMPLEMENTAR E SAUDE,10,Risco remoto de envolvimento com atividades ilIcitas
+6629100,ATV AUX SEGURO PREVID COMPLEM PLANO SAUDE NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+6630400,ATIVIDADES DE ADMINISTRACAO DE FUNDOS POR CONTRATO OU COMISSAO,10,Risco remoto de envolvimento com atividades ilIcitas
+6810201,COMPRA E VENDA DE IMOVEIS PROPRIOS,100,ComErcio de bens de luxo ou de alto valor
+6810202,ALUGUEL DE IMOVEIS PROPRIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+6810203,LOTEAMENTO DE IMOVEIS PROPRIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+6821800,"INTERMEDIACAO NA COMPRA, VENDA E ALUGUEL DE IMOVEIS",100,ComErcio de bens de luxo ou de alto valor
+6821801,CORRETAGEM NA COMPRA E VENDA E AVALIACAO DE IMOVEIS,100,ComErcio de bens de luxo ou de alto valor
+6821802,CORRETAGEM NO ALUGUEL DE IMOVEIS,100,ComErcio de bens de luxo ou de alto valor
+6822600,GESTAO E ADMINISTRACAO DA PROPRIEDADE IMOBILIARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+6911700,"ATIVIDADES JURIDICAS, EXCETO CARTORIOS",100,Melhores prAticas de mercado (corrupCAo e lavagem de dinheiro)
+6911701,SERVICOS ADVOCATICIOS,100,Melhores prAticas de mercado (corrupCAo e lavagem de dinheiro)
+6911702,ATIVIDADES AUXILIARES DA JUSTICA,10,Risco remoto de envolvimento com atividades ilIcitas
+6911703,AGENTE DE PROPRIEDADE INDUSTRIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+6912500,CARTORIOS,70,Melhores prAticas de mercado (corrupCAo e lavagem de dinheiro)
+6920600,"ATIVIDADES DE CONTABILIDADE, CONSULTORIA E AUDITORIA CONTABIL E T",70,Melhores prAticas de mercado (corrupCAo e lavagem de dinheiro)
+6920601,ATIVIDADES DE CONTABILIDADE,70,Melhores prAticas de mercado (corrupCAo e lavagem de dinheiro)
+6920602,ATIVIDADES DE CONSULTORIA E AUDITORIA CONTABIL E TRIBUTARIA,70,Melhores prAticas de mercado (corrupCAo e lavagem de dinheiro)
+7010700,SEDES DE EMPRESAS E UNIDADES ADMINISTRATIVAS LOCAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+7020400,ATIVI CONSULTORIA GESTAO EMPRESARIAL EXC CONSULT TECNICA ESPECIF,70,Melhores prAticas de mercado (corrupCAo e lavagem de dinheiro)
+7111100,SERVICOS DE ARQUITETURA,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+7112000,SERVICOS DE ENGENHARIA,80,Alto risco de envolvimento com corrupCAo em contratos pUblicos
+7119700,ATIVIDADES TECNICAS RELACIONADAS A ARQUITETURA E ENGENHARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+7119701,"SERVICOS DE CARTOGRAFIA, TOPOGRAFIA E GEODESIA",10,Risco remoto de envolvimento com atividades ilIcitas
+7119702,ATIVIDADES DE ESTUDOS GEOLOGICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+7119703,SERVICOS DE DESENHO TECNICO RELACIONADO A ARQUITETURA ENGENHARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+7119704,SERVICOS DE PERICIA TECNICA RELACIONADOS A SEGURANCA DO TRABALHO,10,Risco remoto de envolvimento com atividades ilIcitas
+7119799,ATV TEC RELACIONADA ENGENHARIA ARQUITETURA NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+7120100,TESTES E ANALISES TECNICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+7210000,PESQUISA E DESENVOLVIMENTO EXPERIMENTAL CIENCIA FISICA E NATURAL,10,Risco remoto de envolvimento com atividades ilIcitas
+7220700,PESQUISA E DESENVOLVIMENTO EXPERIMENTAL CIENCIA SOCIAL E HUMANA,10,Risco remoto de envolvimento com atividades ilIcitas
+7311400,AGENCIAS DE PUBLICIDADE,100,Diretriz Bacen
+7312200,AGENCIAMENTO ESPACO P/PUBLICIDADE EXC EM VEICULOS DE COMUNICACAO,100,Diretriz Bacen
+7319000,ATIVIDADES DE PUBLICIDADE NAO ESPECIFICADAS ANTERIORMENTE,100,Diretriz Bacen
+7319001,CRIACAO DE ESTANDES PARA FEIRAS E EXPOSICOES,100,Diretriz Bacen
+7319002,PROMOCAO DE VENDAS,50,Impossibilidade de mensuraCAo do faturamento mensal
+7319003,MARKETING DIRETO,10,Risco remoto de envolvimento com atividades ilIcitas
+7319004,CONSULTORIA EM PUBLICIDADE,100,Diretriz Bacen
+7319099,OUTRAS ATIVIDADES DE PUBLICIDADE NAO ESPECIFICADAS ANTERIORMENTE,100,Diretriz Bacen
+7320300,PESQUISAS DE MERCADO E DE OPINIAO PUBLICA,50,Risco de envolvimento com corrupCAo em contratos pUblicos
+7410200,DESIGN E DECORACAO DE INTERIORES,10,Risco remoto de envolvimento com atividades ilIcitas
+7410201,DESIGN,10,Risco remoto de envolvimento com atividades ilIcitas
+7410202,DECORACAO DE INTERIORES,10,Risco remoto de envolvimento com atividades ilIcitas
+7420000,ATIVIDADES FOTOGRAFICAS E SIMILARES,10,Risco remoto de envolvimento com atividades ilIcitas
+7420001,"ATIVIDADES DE PRODUCAO DE FOTOGRAFIAS, EXCETO AEREA E SUBMARINA",10,Risco remoto de envolvimento com atividades ilIcitas
+7420002,ATIVIDADES DE PRODUCAO DE FOTOGRAFIAS AEREAS E SUBMARINAS,10,Risco remoto de envolvimento com atividades ilIcitas
+7420003,LABORATORIOS FOTOGRAFICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+7420004,FILMAGEM DE FESTAS E EVENTOS,10,Risco remoto de envolvimento com atividades ilIcitas
+7420005,SERVICOS DE MICROFILMAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+7490100,ATV PROFISSIONAL CIENTIFICA TECNICA NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+7490101,"SERVICOS DE TRADUCAO, INTERPRETACAO E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+7490102,ESCAFANDRIA E MERGULHO,10,Risco remoto de envolvimento com atividades ilIcitas
+7490103,SERV AGRONOMIA E CONSULTORIA ATIVIDADES AGRICOLAS E PECUARIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+7490104,ATIV INTERMEDIACAO AGENCIAMENTO SERV NEGOCIO EM GERAL EXC IMOBIL,10,Risco remoto de envolvimento com atividades ilIcitas
+7490105,AGENCIAMENTO PROFISSIONAIS P/ATIVIDADE ESPORTIVA CULT ARTISTICA,100,Melhores prAticas de mercado (corrupCAo e lavagem de dinheiro)
+7490199,OUTRA ATIV PROFISSIONAL CIENTIFICA TECNICA NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+7500100,ATIVIDADES VETERINARIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+7711000,LOCACAO DE AUTOMOVEIS SEM CONDUTOR,70,Risco de envolvimento com crime organizado e lavagem de dinheiro
+7719500,"LOCACAO DE MEIOS DE TRANSPORTE, EXCETO AUTOMOVEIS, SEM CONDUTOR",10,Risco remoto de envolvimento com atividades ilIcitas
+7719501,LOCACAO EMBARCACAO S/TRIPULACAO EXCETO PARA FINS RECREATIVOS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+7719502,LOCACAO DE AERONAVES SEM TRIPULACAO,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+7719599,LOCACAO OUTROS MEIOS TRANS NAO ESPECI ANTERIORMENTE SEM CONDUTOR,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+7721700,ALUGUEL DE EQUIPAMENTOS RECREATIVOS E ESPORTIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+7722500,"ALUGUEL DE FITAS DE VIDEO, DVDS E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+7723300,"ALUGUEL DE OBJETOS DO VESTUARIO, JOIAS E ACESSORIOS",10,Risco remoto de envolvimento com atividades ilIcitas
+7729200,ALUGUEL OBJETO PESSOAL E DOMESTICO NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+7729201,ALUGUEL DE APARELHOS DE JOGOS ELETRONICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+7729202,ALUGUEL MOVEL UTENSI APAR USO DOMESTICO PESSOAL INSTRUM MUSCAL,10,Risco remoto de envolvimento com atividades ilIcitas
+7729203,ALUGUEL DE MATERIAL MEDICO,10,Risco remoto de envolvimento com atividades ilIcitas
+7729299,ALUGUEL OUTRO OBJETO PESSOAL DOMESTICO NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+7731400,ALUGUEL DE MAQUINAS E EQUIPAMENTOS AGRICOLAS SEM OPERADOR,10,Risco remoto de envolvimento com atividades ilIcitas
+7732200,ALUGUEL DE MAQUINAS E EQUIPAMENTOS PARA CONSTRUCAO SEM OPERADOR,10,Risco remoto de envolvimento com atividades ilIcitas
+7732201,"ALUGUEL DE MAQ EQUIP P/CONSTRUCAO SEM OPERADOR, EXCETO ANDAIMES",10,Risco remoto de envolvimento com atividades ilIcitas
+7732202,ALUGUEL DE ANDAIMES,10,Risco remoto de envolvimento com atividades ilIcitas
+7733100,ALUGUEL DE MAQUINAS E EQUIPAMENTOS PARA ESCRITORIO,10,Risco remoto de envolvimento com atividades ilIcitas
+7739000,ALUGUEL DE MAQUINA  EQUIPAMENTO NAO ESPECIFICADOS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+7739001,"ALUGUEL MAQ EQUIP P/EXTRACAO DE MINERIO E PETROLEO, SEM OPERADOR",10,Risco remoto de envolvimento com atividades ilIcitas
+7739002,ALUGUEL EQUIPAMENTO CIENTIFICO MEDICO HOSPITALAR SEM OPERADOR,10,Risco remoto de envolvimento com atividades ilIcitas
+7739003,ALUGUEL PALCO COBERTURA OUTR ESTRUTURA USO TEMPORARIO EX ANDAIME,10,Risco remoto de envolvimento com atividades ilIcitas
+7739099,ALUGUEL OUTRA MAQ EQUIP COMAL INDAL NAO ESPECI ANTERIOR S/OPERAD,10,Risco remoto de envolvimento com atividades ilIcitas
+7740300,GESTAO DE ATIVOS INTANGIVEIS NAO-FINANCEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+7810800,SELECAO E AGENCIAMENTO DE MAO-DE-OBRA,10,Risco remoto de envolvimento com atividades ilIcitas
+7820500,LOCACAO DE MAO-DE-OBRA TEMPORARIA,10,Risco remoto de envolvimento com atividades ilIcitas
+7830200,FORNECIMENTO E GESTAO DE RECURSOS HUMANOS PARA TERCEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+7911200,AGENCIAS DE VIAGENS,30,Risco de envolvimento em operaCOes de cAmbio irregulares
+7912100,OPERADORES TURISTICOS,30,Risco de envolvimento em operaCOes de cAmbio irregulares
+7990200,SERVICO RESERVA E OUTRO SERVICO DE TURISMO NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+8011100,ATIVIDADES DE VIGILANCIA E SEGURANCA PRIVADA,10,Risco remoto de envolvimento com atividades ilIcitas
+8011101,ATIVIDADES DE VIGILANCIA E SEGURANCA PRIVADA,10,Risco remoto de envolvimento com atividades ilIcitas
+8011102,SERVICOS DE ADESTRAMENTO DE CAES DE GUARDA,10,Risco remoto de envolvimento com atividades ilIcitas
+8012900,ATIVIDADES DE TRANSPORTE DE VALORES,100,Alto risco de envolvimento com sonegaCAo fiscal e lavagem de dinheiro
+8020000,ATIVIDADES DE MONITORAMENTO DE SISTEMAS DE SEGURANCA,10,Risco remoto de envolvimento com atividades ilIcitas
+8020001,ATIVIDADES DE MONITORAMENTO DE SISTEMAS DE SEGURANCA ELETRONICO,10,Risco remoto de envolvimento com atividades ilIcitas
+8030700,ATIVIDADES DE INVESTIGACAO PARTICULAR,50,Risco de envolvimento com atos ilIcitos
+8111700,SERV COMBINADOS PARA APOIO A EDIFICIO EXC CONDOMINIOS PREDIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+8112500,CONDOMINIOS PREDIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+8121400,LIMPEZA EM PREDIOS E EM DOMICILIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8122200,IMUNIZACAO E CONTROLE DE PRAGAS URBANAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8129000,ATIVIDADES DE LIMPEZA NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8130300,ATIVIDADES PAISAGISTICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8211300,SERVICOS COMBINADOS DE ESCRITORIO E APOIO ADMINISTRATIVO,10,Risco remoto de envolvimento com atividades ilIcitas
+8219900,FOTOCOPIA PREP DOCUMENTO OUTRO SERVICO ESPECIALIZ APOIO ADMINISTR,10,Risco remoto de envolvimento com atividades ilIcitas
+8219901,FOTOCOPIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8219999,PREPARACAO DOC SERVICO ESPECIALIZ APOIO ADM NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+8220200,ATIVIDADES DE TELEATENDIMENTO,10,Risco remoto de envolvimento com atividades ilIcitas
+8230000,"ATIV DE ORGANIZACAO DE EVENTOS, EXCETO CULTURAIS E ESPORTIVOS",80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+8230001,"SERVICOS DE ORGANIZACAO DE FEIRAS, CONGRESSOS, EXPOSICAO E FESTA",80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+8230002,CASAS DE FESTAS E EVENTOS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+8291100,ATIVIDADES DE COBRANCA E INFORMACOES CADASTRAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+8292000,ENVASAMENTO E EMPACOTAMENTO SOB CONTRATO,10,Risco remoto de envolvimento com atividades ilIcitas
+8299700,ATIV SERVICO PREST PRINCIPAL EMPRESA NAO ESPECI ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8299701,"MEDICAO DE CONSUMO DE ENERGIA ELETRICA, GAS E AGUA",10,Risco remoto de envolvimento com atividades ilIcitas
+8299702,"EMISSAO DE VALES-ALIMENTACAO, VALES-TRANSPORTE E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+8299703,"SERVICOS DE GRAVACAO DE CARIMBOS, EXCETO CONFECCAO",10,Risco remoto de envolvimento com atividades ilIcitas
+8299704,LEILOEIROS INDEPENDENTES,100,Melhores prAticas de mercado (crime organizado e lavagem de dinheiro)
+8299705,SERVICOS DE LEVANTAMENTO DE FUNDOS SOB CONTRATO,10,Risco remoto de envolvimento com atividades ilIcitas
+8299706,CASAS LOTERICAS,100,Diretriz Bacen
+8299707,SALAS DE ACESSO A INTERNET,10,Risco remoto de envolvimento com atividades ilIcitas
+8299799,OUTRA ATIVIDADE SERV PREST PRINCI A EMPRESA NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+8411600,ADMINISTRACAO PUBLICA EM GERAL,100,Alto risco de corrupCAo
+8412400,REGULACAO ATIVIDADE SAUDE EDUCACAO SERV CULT OUTRO SERV SOCIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+8413200,REGULACAO DAS ATIVIDADES ECONOMICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8421300,RELACOES EXTERIORES,10,Risco remoto de envolvimento com atividades ilIcitas
+8422100,DEFESA,10,Risco remoto de envolvimento com atividades ilIcitas
+8423000,JUSTICA,10,Risco remoto de envolvimento com atividades ilIcitas
+8424800,SEGURANCA E ORDEM PUBLICA,10,Risco remoto de envolvimento com atividades ilIcitas
+8425600,DEFESA CIVIL,10,Risco remoto de envolvimento com atividades ilIcitas
+8430200,SEGURIDADE SOCIAL OBRIGATORIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8511200,EDUCACAO INFANTIL - CRECHE,10,Risco remoto de envolvimento com atividades ilIcitas
+8512100,EDUCACAO INFANTIL - PRE-ESCOLA,10,Risco remoto de envolvimento com atividades ilIcitas
+8513900,ENSINO FUNDAMENTAL,10,Risco remoto de envolvimento com atividades ilIcitas
+8520100,ENSINO MEDIO,10,Risco remoto de envolvimento com atividades ilIcitas
+8531700,EDUCACAO SUPERIOR - GRADUACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+8532500,EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+8533300,EDUCACAO SUPERIOR - POS-GRADUACAO E EXTENSAO,10,Risco remoto de envolvimento com atividades ilIcitas
+8541400,EDUCACAO PROFISSIONAL DE NIVEL TECNICO,10,Risco remoto de envolvimento com atividades ilIcitas
+8542200,EDUCACAO PROFISSIONAL DE NIVEL TECNOLOGICO,10,Risco remoto de envolvimento com atividades ilIcitas
+8550300,ATIVIDADES DE APOIO A EDUCACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+8550301,ADMINISTRACAO DE CAIXAS ESCOLARES,10,Risco remoto de envolvimento com atividades ilIcitas
+8550302,"ATIVIDADES DE APOIO A EDUCACAO, EXCETO CAIXAS ESCOLARES",10,Risco remoto de envolvimento com atividades ilIcitas
+8591100,ENSINO DE ESPORTES,10,Risco remoto de envolvimento com atividades ilIcitas
+8592900,ENSINO DE ARTE E CULTURA,10,Risco remoto de envolvimento com atividades ilIcitas
+8592901,ENSINO DE DANCA,10,Risco remoto de envolvimento com atividades ilIcitas
+8592902,"ENSINO DE ARTES CENICAS, EXCETO DANCA",10,Risco remoto de envolvimento com atividades ilIcitas
+8592903,ENSINO DE MUSICA,10,Risco remoto de envolvimento com atividades ilIcitas
+8592999,ENSINO DE ARTE E CULTURA NAO ESPECIFICADO ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8593700,ENSINO DE IDIOMAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8599600,ATIVIDADES DE ENSINO NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8599601,FORMACAO DE CONDUTORES,10,Risco remoto de envolvimento com atividades ilIcitas
+8599602,CURSOS DE PILOTAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+8599603,TREINAMENTO EM INFORMATICA,10,Risco remoto de envolvimento com atividades ilIcitas
+8599604,TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+8599605,CURSOS PREPARATORIOS PARA CONCURSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8599699,OUTRAS ATIVIDADES DE ENSINO NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8610100,ATIVIDADES DE ATENDIMENTO HOSPITALAR,10,Risco remoto de envolvimento com atividades ilIcitas
+8610101,ATIV ATEND HOSPITALAR EX PRONTO-SOCORRO E UNID P/ATEND URGENCIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8610102,ATIV ATEND PRONTO-SOCORRO UNIDADE HOSPIT P/ATEND A URGENCIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8621600,SERVICOS MOVEIS DE ATENDIMENTO A URGENCIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8621601,UTI MOVEL,10,Risco remoto de envolvimento com atividades ilIcitas
+8621602,"SERVICOS MOVEIS DE ATENDIMENTO A URGENCIAS, EXCETO POR UTI MOVEL",10,Risco remoto de envolvimento com atividades ilIcitas
+8622400,SERVI REMOCAO PACIENTE EXC SERVICO MOVEL ATENDIMENTO A URGENCIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8630500,ATIV ATENCAO AMBULATORIAL EXECUTADAS POR MEDICOS E ODONTOLOGOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8630501,ATIVIDADE MEDICA AMBULATORIAL COM RECURSOS PARA REALIZACAO DE PRO,10,Risco remoto de envolvimento com atividades ilIcitas
+8630502,ATIVIDADE MEDICA AMBULATORIAL COM RECURSOS PARA REALIZACAO DE EXA,10,Risco remoto de envolvimento com atividades ilIcitas
+8630503,ATIVIDADE MEDICA AMBULATORIAL RESTRITA A CONSULTAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8630504,ATIVI ODONTO COM RECURSO P/REALIZ DE PROCEDIMENTOS CIRURGICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8630505,ATIVI ODONTO SEM RECURSO P/REALIZ DE PROCEDIMENTOS CIRURGICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8630506,SERVICOS DE VACINACAO E IMUNIZACAO HUMANA,10,Risco remoto de envolvimento com atividades ilIcitas
+8630507,ATIVIDADES DE REPRODUCAO HUMANA ASSISTIDA,10,Risco remoto de envolvimento com atividades ilIcitas
+8630599,ATIVIDADE DE ATENCAO AMBULATORIAL NAO ESPECIFICADA ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8640200,ATIVIDADE DE SERVICO DE COMPLEMENTACAO DIAGNOSTICA E TERAPEUTICA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640201,LABORATORIOS DE ANATOMIA PATOLOGICA E CITOLOGICA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640202,LABORATORIOS CLINICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8640203,SERVICOS DE DIALISE E NEFROLOGIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640204,SERVICOS DE TOMOGRAFIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640205,SERV DIAGNOSTICO P/IMAGEM C/USO RADIACAO IONIZANTE EX TOMOGRAFIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640206,SERVICOS DE RESSONANCIA MAGNETICA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640207,SERVI DIAG P/IMAGEM S/USO RADIACAO IONIZANTE EX RESSONAN MAGNT,10,Risco remoto de envolvimento com atividades ilIcitas
+8640208,SERVI DIAGNOSTICO P/REGISTRO GRAF - ECG EEG OUTRO EXAME ANALOGO,10,Risco remoto de envolvimento com atividades ilIcitas
+8640209,SERV DIAGNOSTICO P/METODO OPTICO - ENDOSCOPIA OUTRO EXAME ANLOGO,10,Risco remoto de envolvimento com atividades ilIcitas
+8640210,SERVICOS DE QUIMIOTERAPIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640211,SERVICOS DE RADIOTERAPIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640212,SERVICOS DE HEMOTERAPIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640213,SERVICOS DE LITOTRIPSIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8640214,SERVICOS DE BANCOS DE CELULAS E TECIDOS HUMANOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8640299,ATIVI SERV COMPLEM DIAGNOSTICA TERAPEUTICA NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+8650000,"ATIVI PROFISSIONAIS DA AREA DE SAUDE, EX MEDICOS E ODONTOLOGOS",10,Risco remoto de envolvimento com atividades ilIcitas
+8650001,ATIVIDADES DE ENFERMAGEM,10,Risco remoto de envolvimento com atividades ilIcitas
+8650002,ATIVIDADES DE PROFISSIONAIS DA NUTRICAO,10,Risco remoto de envolvimento com atividades ilIcitas
+8650003,ATIVIDADES DE PSICOLOGIA E PSICANALISE,10,Risco remoto de envolvimento com atividades ilIcitas
+8650004,ATIVIDADES DE FISIOTERAPIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8650005,ATIVIDADES DE TERAPIA OCUPACIONAL,10,Risco remoto de envolvimento com atividades ilIcitas
+8650006,ATIVIDADES DE FONOAUDIOLOGIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8650007,ATIVIDADES DE TERAPIA DE NUTRICAO ENTERAL E PARENTERAL,10,Risco remoto de envolvimento com atividades ilIcitas
+8650099,ATIVI PROFISSIONAIS AREA DE SAUDE NAO ESPECIFICADA ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8660700,ATIVIDADES DE APOIO A GESTAO DE SAUDE,10,Risco remoto de envolvimento com atividades ilIcitas
+8690900,ATIVI ATENCAO A SAUDE HUMANA NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8690901,ATIVI DE PRATICAS INTEGRATIVAS E COMPLEMENTARES EM SAUDE HUMANA,10,Risco remoto de envolvimento com atividades ilIcitas
+8690902,ATIVIDADES DE BANCOS DE LEITE HUMANO,10,Risco remoto de envolvimento com atividades ilIcitas
+8690904,ATIVIDADES DE PODOLOGIA,10,Risco remoto de envolvimento com atividades ilIcitas
+8690999,OUTRA ATIV ATENCAO A SAUDE HUMANA NAO ESPECIFICADA ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8711500,ATV ASSIST IDOSO DEF FIS IMUNODEPRI CONVAL PREST RESID COL PART,10,Risco remoto de envolvimento com atividades ilIcitas
+8711501,CLINICAS E RESIDENCIAS GERIATRICAS,10,Risco remoto de envolvimento com atividades ilIcitas
+8711502,INSTITUICOES DE LONGA PERMANENCIA PARA IDOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8711503,ATIVI ASSISTENCIA A DEF FISICO IMUNODEPRIMIDO E CONVALESCENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+8711504,CENTROS DE APOIO A PACIENTES COM CANCER E COM AIDS,10,Risco remoto de envolvimento com atividades ilIcitas
+8711505,CONDOMINIOS RESIDENCIAIS PARA IDOSOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8712300,ATIVI FORNECI INFRA-ESTRUTURA APOIO ASSIST PACIENTE NO DOMICILIO,10,Risco remoto de envolvimento com atividades ilIcitas
+8720400,ATV ASSIS PSCOSSOCAL SAUD PORT DSTBIOS PSIQUI DEF MNTAL DEP QUIM,10,Risco remoto de envolvimento com atividades ilIcitas
+8720401,ATIVIDADES DE CENTROS DE ASSISTENCIA PSICOSSOCIAL,10,Risco remoto de envolvimento com atividades ilIcitas
+8720499,ATV ASSTC SUDE PORT DSTBIO PSIQUI DEF MNTAL DEP QUIM NAO ESP ANT,10,Risco remoto de envolvimento com atividades ilIcitas
+8730100,ATIVI ASSISTENCIA SOCIAL PREST RESIDENCIA COLETIVA E PARTICULAR,10,Risco remoto de envolvimento com atividades ilIcitas
+8730101,ORFANATOS,10,Risco remoto de envolvimento com atividades ilIcitas
+8730102,ALBERGUES ASSISTENCIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+8730199,ATIVI ASSISTENCIA SOCIAL PREST RES COL PART NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+8800600,SERVICOS DE ASSISTENCIA SOCIAL SEM ALOJAMENTO,10,Risco remoto de envolvimento com atividades ilIcitas
+8592901,ENSINO DE DANCA,10,Risco remoto de envolvimento com atividades ilIcitas
+9001900,"ARTES CENICAS, ESPETACULOS E ATIVIDADES COMPLEMENTARES",10,Risco remoto de envolvimento com atividades ilIcitas
+9001901,PRODUCAO TEATRAL,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9001902,PRODUCAO MUSICAL,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9001903,PRODUCAO DE ESPETACULOS DE DANCA,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9001904,"PRODUCAO DE ESPETACULOS CIRCENSES, DE MARIONETES E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+9001905,"PRODUCAO DE ESPETACULOS DE RODEIOS, VAQUEJADAS E SIMILARES",80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9001906,ATIVIDADES DE SONORIZACAO E DE ILUMINACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+9001999,ARTE CENICA ESPETAC ATIVI COMPLEMENTARES NAO ESPECI ANTERIOR,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9002700,CRIACAO ARTISTICA,10,Risco remoto de envolvimento com atividades ilIcitas
+9002701,"ATIVI ARTISTA PLASTICO, JORNALISTAS INDEPENDENTES E ESCRITORES",10,Risco remoto de envolvimento com atividades ilIcitas
+9002702,RESTAURACAO DE OBRAS DE ARTE,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+9003500,GESTAO ESPACO P/ARTE CENICA ESPETACULO OUTRA ATIVIDADE ARTISTICA,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9101500,ATIVIDADES DE BIBLIOTECAS E ARQUIVOS,10,Risco remoto de envolvimento com atividades ilIcitas
+9102300,ATV MUSEUS EXPLOR REST ART CONSERV LUGAR PRED HIST ATRCAO SIMIL,10,Risco remoto de envolvimento com atividades ilIcitas
+9102301,ATIVI MUSEUS E EXPLORACAO LUGAR PRED HISTORICO ATRACAO SIMILAR,10,Risco remoto de envolvimento com atividades ilIcitas
+9102302,RESTAURACAO E CONSERVACAO DE LUGARES E PREDIOS HISTORICOS,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9103100,ATIVI JARDIM BOTANICO ZOO PQ NAC RESERVA ECO AREA PROT AMBIENTAL,10,Risco remoto de envolvimento com atividades ilIcitas
+9200301,CASAS DE BINGO,100,Diretriz Bacen
+9311500,GESTAO DE INSTALACOES DE ESPORTES,10,Risco remoto de envolvimento com atividades ilIcitas
+9312300,"CLUBES SOCIAIS, ESPORTIVOS E SIMILARES",100,"Melhores prAticas de mercado (crime organizado, sonegaCAo fiscal e lavagem de dinheiro)"
+9313100,ATIVIDADES DE CONDICIONAMENTO FISICO,10,Risco remoto de envolvimento com atividades ilIcitas
+9319100,ATIVIDADES ESPORTIVAS NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+9319101,PRODUCAO E PROMOCAO DE EVENTOS ESPORTIVOS,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9319199,OUTRAS ATIVIDADES ESPORTIVAS NAO ESPECIFICADAS ANTERIORMENTE,80,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9321200,PARQUES DE DIVERSAO E PARQUES TEMATICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+9329800,ATIVIDADES DE RECREACAO E LAZER NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+9329801,"DISCOTECAS, DANCETERIAS, SALOES DE DANCA E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+9329802,EXPLORACAO DE BOLICHES,10,Risco remoto de envolvimento com atividades ilIcitas
+9329803,"EXPLORACAO DE JOGOS DE SINUCA, BILHAR E SIMILARES",10,Risco remoto de envolvimento com atividades ilIcitas
+9329804,EXPLORACAO DE JOGOS ELETRONICOS RECREATIVOS,100,Diretriz Bacen
+9329899,OUTRA ATIV DE RECREACAO E LAZER NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+9411100,ATIVIDADES DE ORGANIZACOES ASSOCIATIVAS PATRONAIS E EMPRESARIAIS,100,Alto risco de corrupCAo
+9412000,ATIVIDADES DE ORGANIZACOES ASSOCIATIVAS PROFISSIONAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+9412099,OUTRAS ATIVIDADES ASSOCIATIVAS PROFISSIONAIS,70,Risco de corrupCAo
+9420100,ATIVIDADES DE ORGANIZACOES SINDICAIS,100,Alto risco de corrupCAo
+9430800,ATIVIDADES DE ASSOCIACOES DE DEFESA DE DIREITOS SOCIAIS,70,Risco de corrupCAo
+9491000,ATIVIDADES DE ORGANIZACOES RELIGIOSAS,100,Diretriz Bacen
+9492800,ATIVIDADES DE ORGANIZACOES POLITICAS,100,Alto risco de corrupCAo
+9493600,ATIVIDADES DE ORGANIZACOES ASSOCIATIVAS LIGADAS A CULTURA E ARTE,70,"Risco de envolvimento com crime organizado, corrupCAo em contratos pUblicos e lavagem de dinheiro"
+9499500,ATIVIDADES ASSOCIATIVAS NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+9511800,REPARACAO MANUTENCAO DE COMPUTADORE E DE EQUIPAMENTO PERIFERICO,10,Risco remoto de envolvimento com atividades ilIcitas
+9512600,REPARACAO E MANUTENCAO DE EQUIPAMENTOS DE COMUNICACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+9521500,REPARACAO E MANUTENCAO DE EQUIPAMENTOS ELETROELETRONICOS DE USO P,10,Risco remoto de envolvimento com atividades ilIcitas
+9529100,REPARACAO E MANUTENCAO DE OBJETOS E EQUIPAMENTOS PESSOAIS E DOMES,10,Risco remoto de envolvimento com atividades ilIcitas
+9529101,"REPARACAO DE CALCADOS, BOLSAS E ARTIGOS DE VIAGEM",10,Risco remoto de envolvimento com atividades ilIcitas
+9529102,CHAVEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+9529103,REPARACAO DE RELOGIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+9529104,"REPARACAO DE BICICLETAS, TRICICLOS E OUTROS VEICULOS NAO-MOTORIZA",10,Risco remoto de envolvimento com atividades ilIcitas
+9529105,REPARACAO DE ARTIGOS DO MOBILIARIO,10,Risco remoto de envolvimento com atividades ilIcitas
+9529106,REPARACAO DE JOIAS,80,Risco de envolvimento com crime organizado e lavagem de dinheiro
+9529199,REPRACAO MANUT OUTROS OBJ EQUIP PESS DOMEST NAO ESPECI ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+9601700,"LAVANDERIAS, TINTURARIAS E TOALHEIROS",10,Risco remoto de envolvimento com atividades ilIcitas
+9601701,LAVANDERIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+9601702,TINTURARIAS,10,Risco remoto de envolvimento com atividades ilIcitas
+9601703,TOALHEIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+9602500,CABELEIREIROS E OUTRAS ATIVIDADES DE TRATAMENTO DE BELEZA,10,Risco remoto de envolvimento com atividades ilIcitas
+9602501,CABELEIREIROS,10,Risco remoto de envolvimento com atividades ilIcitas
+9602502,OUTRAS ATIVIDADES DE TRATAMENTO DE BELEZA,10,Risco remoto de envolvimento com atividades ilIcitas
+9603300,ATIVIDADES FUNERARIAS E SERVICOS RELACIONADOS,40,Risco de envolvimento em fraudes contra o seguro
+9603301,GESTAO E MANUTENCAO DE CEMITERIOS,10,Risco remoto de envolvimento com atividades ilIcitas
+9603302,SERVICOS DE CREMACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+9603303,SERVICOS DE SEPULTAMENTO,10,Risco remoto de envolvimento com atividades ilIcitas
+9603304,SERVICOS DE FUNERARIAS,40,Risco de envolvimento em fraudes contra o seguro
+9603305,SERVICOS DE SOMATOCONSERVACAO,10,Risco remoto de envolvimento com atividades ilIcitas
+9603399,ATIV FUNERARIA SERV RELACIONADO NAO ESPECIFICADOS ANTERIORMENTE,40,Risco de envolvimento em fraudes contra o seguro
+9609200,ATIVIDADES DE SERVICOS PESSOAIS NAO ESPECIFICADAS ANTERIORMENTE,10,Risco remoto de envolvimento com atividades ilIcitas
+9609202,AGENCIAS MATRIMONIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
+9609203,"ALOJAMENTO, HIGIENE E EMBELEZAMENTO DE ANIMAIS",10,Risco remoto de envolvimento com atividades ilIcitas
+9609204,EXPLORACAO DE MAQUINAS DE SERVICOS PESSOAIS ACIONADAS POR MOEDA,10,Risco remoto de envolvimento com atividades ilIcitas
+9609206,SERVICOS DE TATUAGEM E COLOCACAO DE PIERCING,10,Risco remoto de envolvimento com atividades ilIcitas
+9609208,HIGIENE E EMBELEZAMENTO DE ANIMAIS DOMESTICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+9609299,OUTRAS ATIVIDADES DE SERVICOS PESSOAIS NAO ESPECIFICADAS ANTERIOR,10,Risco remoto de envolvimento com atividades ilIcitas
+9700500,SERVICOS DOMESTICOS,10,Risco remoto de envolvimento com atividades ilIcitas
+9900800,ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUICOES EXTRATERRITORIAIS,10,Risco remoto de envolvimento com atividades ilIcitas
